@@ -533,7 +533,7 @@ Copy them into libraries of Arduino
 
 ![](media/ef128138a3b57f2927bf35784021c13a.png)
 
-**8. Projects**
+# **8. Projects**
 
 Note: (G), marked on each sensor and module, is the negative pole and connected to“G”, ”-”or “GND”on the sensor shield or control board ; (V) is the positive pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
