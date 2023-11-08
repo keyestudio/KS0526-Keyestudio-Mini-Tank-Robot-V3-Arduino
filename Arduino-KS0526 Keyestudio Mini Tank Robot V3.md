@@ -472,8 +472,6 @@ BT remote control distance: 30 meters (measured)
 </table>
 
 
-
-
 ## **5. Install Arduino IDE and Driver**
 
 1)  **Installing Arduino IDE**
