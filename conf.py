@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'KS0526 Keyestudio Mini Tank Robot V3 Arduino'
+project = 'Keyestudio Tank Robot V3'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 

@@ -1,39 +1,12 @@
 # Arduino-KS0526 Keyestudio Mini Tank Robot V3
 
-
-## About keyestudio
-
-Keyestudio is a best-selling brand owned by KEYES Corporation. Our product lines range from controller boards, shields and sensor modules to smart cars and complete starter kits for Arduino, Raspberry Pi and BBC micro:bit, which can help customers at any level learn electronics and programming knowledge. Furthermore, all of our products comply with international quality standards and are greatly appreciated in a variety of different markets worldwide.
-
-You can obtain the details and the latest information through the following web site: <http:/www.keyestudio.com>
-
-## References and After-sales Service
-
-1. Download Profile：https:/fs.keyestudio.com/KS0526
-
-2. If you find any parts missing or encounter any troubles, please feel free to contact us:[service@keyestudio.com](http:/m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=service@keyestudio.com;;clearCache=).** We will update projects and products continuously according to your sincere advice.
-
-## Warning
-
-<!-- end list -->
-
-1.  This product contains tiny parts(screws, copper pillars). Therefore, keep it out of reach of children under 7 please.
-    
-2.  This product consists of conductive parts (control board and electronic module). Please operate according to the requirements of tutorial. Otherwise, improper operation may cause parts to overheat and be damaged. Do not touch or immediately disconnect the circuit power.
-
-## Copyright
-
-The keyestudio trademark and logo are the copyright of KEYES DIY ROBOT co.,LTD. All products under keyestudio brand can’t be copied, sold and resold by anyone or any companies without authorization. If you’re interested in our products, please contact with our sales representatives:[**fennie@keyestudio.com**](http:/m.138.gz.cn/webadmin/~CAmsnCrrNXhTAySKCerrIfWjjZuuWVfI/~/usr/mod_edituser.jsp?;uid=fennie@keyestudio.com;;clearCache=).
-
-**Mini Tank Robot V3**
-
-**(Arduino tutorial)**
-
-
-
 ![](/media/9e6856cf1b771036e3fe440816fa114f.png)
 
-**1. Introduction**
+## **Read me frist**
+
+ **Download the APP, Code and library from the link: <https://fs.keyestudio.com/KS0523>**
+
+## **1. Introduction**
 
 This STEM educational V3.0 tank robot is newly upgraded, adding an line-tracking and a fire- extinguishing function. It vigorously enhances the relationship between kids and parents, and sparks children’s imagination through programming and coding.
 
@@ -45,7 +18,7 @@ The two tutorials for C language and Arduino are also suitable for the enthusias
 
 It is really the best choice for you.
 
-**2.Features：**
+## **2. Features：**
 
 1. Multiple functions：Confinement, line tracking, fire extinguishing, light following, IR and BT remote control, speed control and so on
 
@@ -59,7 +32,7 @@ It is really the best choice for you.
 
 6. Basic programming：C language code of Arduino IDE.
 
-**3.Parameters：**
+## **3. Parameters：**
 
 Working voltage: 5v
 
@@ -81,7 +54,7 @@ Infrared remote control distance: 10 meters (measured)
 
 BT remote control distance: 30 meters (measured)
 
-4.  **Kit List**
+## **4. Kit List**
 
 <table>
 <tbody>
@@ -396,7 +369,7 @@ BT remote control distance: 30 meters (measured)
 
 
 
-**5.Install Arduino IDE and Driver**
+## **5. Install Arduino IDE and Driver**
 
 1)  **Installing Arduino IDE**
 
@@ -503,7 +476,7 @@ Click![](media/9c9158a5d49baa740ea2f0048f655017.png)to upload the program
 
 After the program is uploaded successfully, the onboard LED blinks. Congratulation, you finish the first program.
 
-**7. How to Add a Library?**
+## **6. How to Add a Library?**
 
 **(1) What are Libraries ?**
 
@@ -533,11 +506,11 @@ Copy them into libraries of Arduino
 
 ![](media/ef128138a3b57f2927bf35784021c13a.png)
 
-# **8. Projects**
+## **7. Projects**
 
 Note: (G), marked on each sensor and module, is the negative pole and connected to“G”, ”-”or “GND”on the sensor shield or control board ; (V) is the positive pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
-## **Project 1: LED Blinks**
+### **Project 1: LED Blinks**
 
 (1) Description：
 
@@ -642,7 +615,7 @@ void loop() //Form an infinite loop
 
 The test result shows that the LED flashes faster. Therefore, we can draw a conclusion that pins and time delaying affect flash frequency.
 
-## **Project 2: Adjust LED Brightness**
+### **Project 2: Adjust LED Brightness**
 
 1. Description：
 
@@ -793,7 +766,7 @@ void loop () {
 
 Upload the code to development board, LED flashes more slowly.
 
-## **Project 3: Photoresistor**
+### **Project 3: Photoresistor**
 
 ![](/media/36e7e08764ed3c61a1c22f86be8c23d9.jpeg)
 
@@ -907,7 +880,7 @@ void loop() {
 Upload code to the development board, then cove the photoresistor and
 observe the LED’s brightness.
 
-## **Project 4: Line Tracking Sensor**
+### **Project 4: Line Tracking Sensor**
 
 1. Description：
 
@@ -1049,7 +1022,7 @@ void loop (){
 }
 ```
 
-## **Project 5: Flame Sensor**
+### **Project 5: Flame Sensor**
 
 ![](/media/7cf8c051f489b06119c262cd059c23c5.jpeg)
 
@@ -1166,7 +1139,7 @@ void loop() {
 
 
 
-## **Project 6: Fan**
+### **Project 6: Fan**
 
 1. Description：
 
@@ -1277,7 +1250,7 @@ void loop() {
 }
 ```
 
-## **Project 7: Servo Control**
+### **Project 7: Servo Control**
 
 1)  Description
 
@@ -1423,7 +1396,7 @@ The following are some common statements of the servo function:
 
 Note: The above written format is“servo variable name, specific statement（）”, for instance: myservo.attach(9)
 
-## **Project 8: Ultrasonic Sensor** 
+### **Project 8: Ultrasonic Sensor** 
 
 (1) **Description：**
 
@@ -1607,7 +1580,7 @@ void loop() {
 
 Upload test code to development board and block ultrasonic sensor by hand, then check if LED is on.
 
-## **Project 9: IR Reception**
+### **Project 9: IR Reception**
 
 1)  Description：
     
@@ -1745,7 +1718,7 @@ void loop() {
 
 Upload code to development board, press the“OK”key on remote control to make LED on and off.
 
-## **Project 10: Bluetooth Remote Control**
+### **Project 10: Bluetooth Remote Control**
 
 **1.Description:**
 
@@ -1942,7 +1915,7 @@ Click Write on the mobile APP and send 1 or 0 to control the LED. When you send 
 
 
 
-## **Project 11: Motor Driving and Speed Control**
+### **Project 11: Motor Driving and Speed Control**
 
 **(1)Description:**
 
@@ -2132,7 +2105,7 @@ Note: if the battery power is too low, the motors could move in a low speed and 
 
 
 
-## **Project 12: 8\*16 Facial Expression LED Dot Matrix**
+### **Project 12: 8*16 Facial Expression LED Dot Matrix**
 
 **(1)Description:**
 
@@ -2470,7 +2443,7 @@ patterns orderly and repeats this sequence.
 
 
 
-## **Project 13: Light-following Tank**
+### **Project 13: Light-following Tank**
 
 <img src="/media/ecf3b259b6bce18922959388dc4a8466.jpeg" style="zoom: 50%;" />
 
@@ -2584,7 +2557,7 @@ After uploading the test code successfully, connecting according to the wiring d
 
 
 
-## **Project 14: Ultrasonic Sound-following Tank**
+### **Project 14: Ultrasonic Sound-following Tank**
 
 <img src="/media/26de2c574af94f92874749054eacf3e9.jpeg" style="zoom: 50%;" />
 
@@ -2722,7 +2695,7 @@ After uploading the test code successfully, connecting according to the wiring d
 
 
 
-## **Project 15: Ultrasonic Obstacle Avoidance Tank**
+### **Project 15: Ultrasonic Obstacle Avoidance Tank**
 
 <img src="/media/7bdae4a3b3bd2c295d9ff61ca9bd792f.jpeg" style="zoom: 50%;" />
 
@@ -2881,7 +2854,7 @@ After upload the test code successfully, wire up, turn the DIP switch to the ON 
 
 
 
-## **Project 16: Move-in-Confined-Space Tank**
+### **Project 16: Move-in-Confined-Space Tank**
 
 <img src="/media/b519c777b40a0de462f10814d4c3ca48.jpeg" style="zoom:50%;" />
 
@@ -2991,7 +2964,7 @@ After uploading the test code successfully and powering it up, the smart car mov
 
 
 
-## **Project 17: Line-tracking Tank**
+### **Project 17: Line-tracking Tank**
 
 <img src="/media/f07697b638146afdcd6dea654f5d2137.jpeg" style="zoom:50%;" />
 
@@ -3130,7 +3103,7 @@ After uploading the test code successfully and powering it up, the smart car mov
 
 
 
-## **Project 18: Fire Extinguishing Tank**
+### **Project 18: Fire Extinguishing Tank**
 
 <img src="/media/b407e190f2308dcdb0a1570795fe2b54.jpeg" style="zoom:50%;" />
 
@@ -3310,7 +3283,7 @@ After uploading the test code successfully and powering it up, the smart car put
 
 
 
-## **Project 19: IR Remote Control Tank**
+### **Project 19: IR Remote Control Tank**
 
 ![](/media/fe3319362c94d0bcf196e86b0de2b885.jpeg)
 
@@ -3527,7 +3500,7 @@ void IIC_send(unsigned char send_data)
 
 After uploading the test code successfully and powering it up, the smart car can be controlled to move by IR remote control and the 8\*16 shows the corresponding patterns of its movements.
 
-## **Project 20: Bluetooth Control Tank**
+### **Project 20: Bluetooth Control Tank**
 
 ![](/media/8472e049f0ac03340b68b64e7593d9a1.jpeg)
 
@@ -3988,7 +3961,7 @@ After uploading the test code successfully, dialing the DIP switch to the right 
 
 
 
-## **Project 21: Speed-Controlled-by-Bluetooth Tank**
+### **Project 21: Speed-Controlled-by-Bluetooth Tank**
 
 ![](/media/bc6f346d0044194eff10034bf6de1032.jpeg)
 
@@ -4234,9 +4207,9 @@ After uploading the test code successfully, dialing the DIP switch to the right 
 
 
 
-## **Project 22: Multifunctional Tank**
+### **Project 22: Multifunctional Tank**
 
-## ![](/media/55638241b5cef959d3f01494c82c2ea3.jpeg)
+ ![](/media/55638241b5cef959d3f01494c82c2ea3.jpeg)
 
 **(1)Description:**
 
@@ -4841,7 +4814,4 @@ And we strongly recommend you to have a go on the following products rolled out 
 |![](media/wps7.jpg)| ![](media/wps11.png) |![](media/ac1b7dc172c3f335b5370eb3b9b8e173.jpeg)|
 |![](media/wps12.png)| ![](media/wps13.png) |![](media/a523f8f659b88422e6751233dfcf698e.jpeg)|
 
-**9. Resources**
-
-[https:/fs.keyestudio.com/KS0](https:/fs.keyestudio.com/KS0426)526
 
