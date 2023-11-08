@@ -66,128 +66,177 @@ BT remote control distance: 30 meters (measured)
 </tr>
 <tr class="even">
 <td>1</td>
-<td><img src="media/e7109191dcd9c2d014964b9e2409dc0c.png" style="width:1.76667in;height:1.31667in" /></td>
+<td>
+
+ ![](media/e7109191dcd9c2d014964b9e2409dc0c.png) 
+</td>
 <td>Wrench</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>2</td>
-<td><img src="media/575e374ce74fa69b0b3f43610de08ff6.jpg" style="width:1.95972in;height:0.97083in" /></td>
+<td>
+
+![](media/575e374ce74fa69b0b3f43610de08ff6.jpg)
+</td>
 <td>Driving Wheels</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>3</td>
-<td><img src="/media/b73abfc7a734f4862d06712e6310280b.png" style="width:0.68125in;height:0.68264in" /></td>
+<td>
+
+![](media/b73abfc7a734f4862d06712e6310280b.png)
+</td>
 <td>M4*12mm Hexagon Screws</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>4</td>
-<td><img src="/media/10d9de74b35431cbaed2e4056ab13b96.png" style="width:1.96458in;height:0.84861in" /></td>
+<td>
+
+![](media/10d9de74b35431cbaed2e4056ab13b96.png)
+</td>
 <td>Caterpillar Band</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>5</td>
-<td><img src="/media/bc31aba110b7ad911b46ea77fcb0a7fd.jpg" style="width:1.68125in;height:1.02917in" /></td>
+<td>
+
+![](media/bc31aba110b7ad911b46ea77fcb0a7fd.jpg)</td>
 <td>Driven Wheel</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>6</td>
-<td><img src="/media/85982dd58bc2a8bdc8b60968e0b4d7a9.png" style="width:0.69722in;height:1.11667in" /></td>
+<td>
+
+![](media/85982dd58bc2a8bdc8b60968e0b4d7a9.png)</td>
 <td>M4*35mm Hexagon Screws</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>7</td>
-<td><img src="/media/782340778c2838b36784c6920821726a.png" style="width:1.77639in;height:1.66389in" /></td>
+<td>
+
+![](media/782340778c2838b36784c6920821726a.png)
+
+</td>
 <td>Bottom Parts</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>8</td>
-<td><img src="/media/8ecfc7e4f74bd2001452e33f74eace2e.png" style="width:1.74097in;height:1.25694in" /></td>
+<td>
+
+![](media/8ecfc7e4f74bd2001452e33f74eace2e.png)</td>
 <td>Keyestudio V4.0 Development Board</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>9</td>
-<td><img src="/media/4ebdedd20a23f95ce5ae9c0a4d124a81.png" style="width:1.75139in;height:1.40694in" /></td>
+<td>
+
+![](media/4ebdedd20a23f95ce5ae9c0a4d124a81.png)</td>
 <td>L298P Motor Driver Shield</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>10</td>
-<td><img src="/media/725b40552b5104104dc109c5fe6ad7b3.png" style="width:2.13958in;height:0.75139in" /></td>
+<td>
+
+![](media/725b40552b5104104dc109c5fe6ad7b3.png)</td>
 <td>Keyestudio HM-10 BT-4.0</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>11</td>
-<td><img src="/media/b0906d68835b2659491e53a85567569b.png" style="width:1.73819in;height:0.96597in" /></td>
+<td>
+
+![](media/b0906d68835b2659491e53a85567569b.png)</td>
 <td>HC-SR04 Ultrasonic Sensor</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>12</td>
-<td><img src="/media/4a2be9e7bf76b26b49e10d5d2f3f9bda.png" style="width:1.73681in;height:0.79722in" /></td>
+<td>
+
+![](media/4a2be9e7bf76b26b49e10d5d2f3f9bda.png)</td>
 <td>Keyestudio 8*16 LED Panel</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>13</td>
-<td><img src="/media/0b130b1b8eb4e626a9cad08906af2ef5.png" style="width:2.13889in;height:1.70486in" /></td>
+<td>
+
+![](media/0b130b1b8eb4e626a9cad08906af2ef5.png)</td>
 <td>Yellow LED Module</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>14</td>
-<td><img src="/media/ecf808f114234039582880ab4682c4e6.png" style="width:1.71875in;height:1.22569in" /></td>
+<td>
+
+![](media/ecf808f114234039582880ab4682c4e6.png)</td>
 <td>Flame Sensor</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>15</td>
-<td><img src="/media/ec37bc098e230744bac2fb22b91c503e.png" style="width:1.34375in;height:1.37639in" /></td>
+<td>
+
+![](media/ec37bc098e230744bac2fb22b91c503e.png)</td>
 <td>130 Motor Module</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>16</td>
-<td><img src="/media/694d563668ffd3ff9b453f45963c16f2.png" style="width:1.43889in;height:1.04514in" /></td>
+<td>
+
+![](media/694d563668ffd3ff9b453f45963c16f2.png)</td>
 <td>IR Receiver Module</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>17</td>
-<td><img src="/media/9b0193c19a5a7392052adffdfc4e10c2.png" style="width:2.13819in;height:1.78403in" /></td>
+<td>
+
+![](media/9b0193c19a5a7392052adffdfc4e10c2.png)</td>
 <td>Photoresistor</td>
 <td>2</td>
 </tr>
 <tr class="odd">
 <td>18</td>
-<td><img src="/media/3960ff94f47aca1521f294d929ee2592.png" style="width:1.60625in;height:1.50694in" /></td>
+<td>
+
+![](media/3960ff94f47aca1521f294d929ee2592.png)</td>
 <td><p>Acrylic Board for</p>
 <p>8*16 LED Panel</p></td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>19</td>
-<td><img src="/media/a8997d05138f338432d7d2e02de72bfd.png" style="width:1.24375in;height:1.53194in" /></td>
+<td>
+
+![](media/a8997d05138f338432d7d2e02de72bfd.png)</td>
 <td>Upper Board</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>20</td>
-<td><img src="/media/9665dfd887f3b761c887fe49e47fbdef.png" style="width:0.80694in;height:0.78542in" /><img src="/media/82e72b8a1e3d2c0eebfa0e96e4b66b83.png" style="width:0.89167in;height:0.91806in" /></td>
+<td>
+
+![](media/9665dfd887f3b761c887fe49e47fbdef.png)
+![](media/82e72b8a1e3d2c0eebfa0e96e4b66b83.png)</td>
 <td>Acrylic Board</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>21</td>
-<td><img src="/media/528c200c8566fe1b65715aa7bb21dad3.png" style="width:1.69028in;height:0.82778in" /></td>
+<td>
+
+![](media/528c200c8566fe1b65715aa7bb21dad3.png)</td>
 <td><p>Keyestudio JMFP-4 17-Key</p>
 <p>Remote Control</p>
 <p>(Without Batteries)</p></td>
@@ -195,171 +244,227 @@ BT remote control distance: 30 meters (measured)
 </tr>
 <tr class="odd">
 <td>22</td>
-<td><img src="/media/e686213ffb2aa53d9960f9f6d1b600cd.png" style="width:1.69931in;height:1.25069in" /></td>
+<td>
+
+![](media/e686213ffb2aa53d9960f9f6d1b600cd.png)</td>
 <td>Keyestudio 9G 180 °Servo</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>23</td>
-<td><img src="/media/4f8d5af6dee9016b45d975adb2391d37.png" style="width:1.80208in;height:0.66667in" /></td>
+<td>
+
+![](media/4f8d5af6dee9016b45d975adb2391d37.png)</td>
 <td>USB Cable</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>24</td>
-<td><img src="/media/f353b46e6c2c0597c3268d5aa137fd99.png" style="width:1.65556in;height:0.19514in" /></td>
+<td>
+
+![](media/f353b46e6c2c0597c3268d5aa137fd99.png)</td>
 <td>3.0*40MM Screwdriver</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>25</td>
-<td><img src="/media/a3d702d65769c0e0b682a77a152ca5cc.png" style="width:0.66806in;height:1.75208in" /></td>
+<td>
+
+![](media/a3d702d65769c0e0b682a77a152ca5cc.png)</td>
 <td><p>4P M-F PH2.0mm to 2.54 Dupont Wire</p>
 <p>(Green-Blue-Red-Black)</p></td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>26</td>
-<td><img src="/media/2b70dfddb2057cbfc54ecb8666c64aeb.png" style="width:1.65556in;height:0.37222in" /></td>
+<td>
+
+![](media/2b70dfddb2057cbfc54ecb8666c64aeb.png)</td>
 <td>4P HX-2.54 Dupont Wire (Black-Red-White-Brown)</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>27</td>
-<td><img src="/media/9be46d555e20cfcf32b981ccd90a376f.png" style="width:1.10764in;height:2.08681in" /></td>
+<td>
+
+![](media/9be46d555e20cfcf32b981ccd90a376f.png)</td>
 <td>5P JST-PH2.0MM Dupont Wire</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>28</td>
-<td><img src="/media/6a1c8e7c27ca08c62ac0c30a0dbd4578.png" style="width:0.81944in;height:1.58681in" /></td>
+<td>
+
+![](media/6a1c8e7c27ca08c62ac0c30a0dbd4578.png)</td>
 <td>3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black)</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>29</td>
-<td><img src="/media/f493282b2846fe01fe6861126b368480.png" style="width:1.05694in;height:1.60347in" /></td>
+<td>
+
+![](media/f493282b2846fe01fe6861126b368480.png)</td>
 <td>3P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>30</td>
-<td><img src="/media/7856a38f34cdeb19966cd0fb99b55f85.png" style="width:1.03611in;height:1.56944in" /></td>
+<td>
+
+![](media/7856a38f34cdeb19966cd0fb99b55f85.png)</td>
 <td>4P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)</td>
 <td>2</td>
 </tr>
 <tr class="even">
 <td>31</td>
-<td><img src="/media/26ed32284d40ce65cc336eb952755e64.png" style="width:1.49931in;height:1.59653in" /></td>
+<td>
+
+![](media/26ed32284d40ce65cc336eb952755e64.png)</td>
 <td><p>4P XH2.54 to PH2.0</p>
 <p>Dupont Wire（Green-Blue-Red-Black)</p></td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>32</td>
-<td><img src="/media/f304cb590f040f13b4bd93bfc636ddba.png" style="width:0.80139in;height:0.6in" /></td>
+<td>
+
+![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
 <td>M1.4*8MM Round-head Screws</td>
 <td>6</td>
 </tr>
 <tr class="even">
 <td>33</td>
-<td><img src="/media/fb3d2a6b5e5de551ae702b94a468ab49.png" style="width:0.35486in;height:0.35486in" /></td>
+<td>
+
+![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)</td>
 <td>M1.4 Nuts</td>
 <td>6</td>
 </tr>
 <tr class="odd">
 <td>34</td>
-<td><img src="./media/fb3d2a6b5e5de551ae702b94a468ab49.png" style="width:0.46806in;height:0.46806in" /></td>
+<td>
+
+![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)</td>
 <td>M2 Nuts</td>
 <td>8</td>
 </tr>
 <tr class="even">
 <td>35</td>
-<td><img src="/media/f304cb590f040f13b4bd93bfc636ddba.png" style="width:0.68958in;height:0.41875in" /></td>
+<td>
+
+![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
 <td>M2*8MM Round-head Screws</td>
 <td>8</td>
 </tr>
 <tr class="odd">
 <td>36</td>
-<td><img src="/media/1ae2d251fa671bdbedd375c37ed394aa.png" style="width:0.14653in;height:0.47431in" /></td>
+<td>
+
+![](media/1ae2d251fa671bdbedd375c37ed394aa.png)</td>
 <td>M1.2*5MM Round-head Screws</td>
 <td>6</td>
 </tr>
 <tr class="even">
 <td>37</td>
-<td><img src="/media/f304cb590f040f13b4bd93bfc636ddba.png" style="width:1.06111in;height:0.64444in" /></td>
+<td>
+
+![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
 <td>M3*6MM Round-head Screws</td>
 <td>18</td>
 </tr>
 <tr class="odd">
 <td>38</td>
-<td><img src="/media/f304cb590f040f13b4bd93bfc636ddba.png" style="width:1.18264in;height:0.71806in" /></td>
+<td>
+
+![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
 <td>M3*10MM Round-head Screws</td>
 <td>3</td>
 </tr>
 <tr class="even">
 <td>39</td>
-<td><img src="/media/fb3d2a6b5e5de551ae702b94a468ab49.png" style="width:0.61458in;height:0.61458in" /></td>
+<td>
+
+![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)</td>
 <td>M3 Nuts</td>
 <td>3</td>
 </tr>
 <tr class="odd">
 <td>40</td>
-<td><img src="/media/0e0fd3c7109c9fdaae633447ace2452f.png" style="width:1.80208in;height:0.30208in" /></td>
+<td>
+
+![](media/0e0fd3c7109c9fdaae633447ace2452f.png)</td>
 <td>M3*10MM Dual-pass Copper Pillar</td>
 <td>4</td>
 </tr>
 <tr class="even">
 <td>41</td>
-<td><img src="/media/0e0fd3c7109c9fdaae633447ace2452f.png" style="width:1.80208in;height:0.30208in" /></td>
+<td>
+
+![](media/0e0fd3c7109c9fdaae633447ace2452f.png)</td>
 <td>M3*40MM Dual-pass Copper Pillar</td>
 <td>4</td>
 </tr>
 <tr class="odd">
 <td>42</td>
-<td><img src="/media/f208158da83eb49a2fca4244c3f05347.png" style="width:1.44097in;height:0.60069in" /></td>
+<td>
+
+![](media/f208158da83eb49a2fca4244c3f05347.png)</td>
 <td>43093 Blue Technic Axle Pin with Friction Ridges</td>
 <td>13</td>
 </tr>
 <tr class="even">
 <td>43</td>
-<td><img src="/media/bcef2d126a80b57c944cc15d4df4ee07.png" style="width:0.85278in;height:0.80139in" /></td>
+<td>
+
+![](media/bcef2d126a80b57c944cc15d4df4ee07.png)</td>
 <td>4265c Technic Bush</td>
 <td>13</td>
 </tr>
 <tr class="odd">
 <td>44</td>
-<td><img src="/media/95a430f19b519f4c80f1aee9bdea1605.png" style="width:1.66736in;height:0.16806in" /></td>
+<td>
+
+![](media/95a430f19b519f4c80f1aee9bdea1605.png)</td>
 <td>Winding Pipe</td>
 <td>.12</td>
 </tr>
 <tr class="even">
 <td>45</td>
-<td><img src="/media/247e99cde38f40eb256ed698ec47bb1d.png" style="width:1.55in;height:0.10625in" /></td>
+<td>
+
+![](media/247e99cde38f40eb256ed698ec47bb1d.png)</td>
 <td>3*100MM Ties</td>
 <td>5</td>
 </tr>
 <tr class="odd">
 <td>46</td>
-<td><img src="/media/ad46a09c801f0ce10448cf7f7c3ef279.png" style="width:0.53125in;height:1.40625in" /></td>
+<td>
+
+![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)</td>
 <td>L Type M2.5 Wrench</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>47</td>
-<td><img src="/media/ad46a09c801f0ce10448cf7f7c3ef279.png" style="width:0.53125in;height:1.40625in" /></td>
+<td>
+
+![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)</td>
 <td>L Type M3 Wrench</td>
 <td>1</td>
 </tr>
 <tr class="odd">
 <td>48</td>
-<td><img src="/media/ad46a09c801f0ce10448cf7f7c3ef279.png" style="width:0.53125in;height:1.40625in" /></td>
+<td>
+
+![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)</td>
 <td>L Type M1.5 Wrench</td>
 <td>1</td>
 </tr>
 <tr class="even">
 <td>49</td>
-<td><img src="/media/8810f202c4cfdc25b290754e21d2fdc8.png" style="width:1.70069in;height:1.11181in" /></td>
+<td>
+
+![](media/8810f202c4cfdc25b290754e21d2fdc8.png)</td>
 <td>Cardboard</td>
 <td>1</td>
 </tr>
@@ -1585,7 +1690,8 @@ Upload test code to development board and block ultrasonic sensor by hand, then 
 1)  Description：
     
 
-<img src="/media/8969111328604c5358f7c915ac94e474.png" style="zoom:50%;" />
+
+![](media/8969111328604c5358f7c915ac94e474.png)
 
 
 There is no doubt that infrared remote control is ubiquitous in daily life. It is used to control various household appliances, such as TVs, stereos, video recorders and satellite signal receivers. Infrared remote control is composed of infrared transmitting and infrared receiving systems, that is, an infrared remote control and infrared receiving module and a single-chip microcomputer capable of decoding.​    
@@ -1819,7 +1925,8 @@ The above code is for reading the signals received by the serial port. Then a de
 
 Go to APP STORE→search for BLE Scanner 4.0→download it to your phone.
 
-<img src="/media/17adf8dc7318b8104373f0d518398279.png" style="zoom:67%;" />
+
+![](media/17adf8dc7318b8104373f0d518398279.png)
 
 （2）Download instructions for Android system:
 
@@ -1833,7 +1940,8 @@ Go to [Google Play](https:/developer.android.google.cn/distribute?hl=zh-cn)→se
 
 （5）Scan for Bluetooth devices and the name of Bluetooth BLE 4.0 is HMSoft which does not have a pairing password. Therefore, click connect to connect to HMSoft and then you can start using it.
 
-<img src="/media/cc2ad4236eb001676ae447e8033edd2f.png" style="zoom:67%;" />
+
+![](media/cc2ad4236eb001676ae447e8033edd2f.png)
 
 （6）After the pairing, click it, and you will get many options, such as device information, general access rights, general attributes, custom services and others. Among all these options, select "Customize Service".
 
@@ -1841,11 +1949,13 @@ Go to [Google Play](https:/developer.android.google.cn/distribute?hl=zh-cn)→se
 
 （7）Then the following page pops up.
 
-<img src="/media/f74e64f9f29e0813db44971d2896d7f2.png" style="zoom: 80%;" />
+
+![](media/f74e64f9f29e0813db44971d2896d7f2.png)
 
 （8）Click words（Read,Notify,WriteWithoutResponse) in blue to enter the following page.
 
-<img src="/media/c769ffa7b68eb36516a429147d5f65b6.png" style="zoom: 80%;" />
+
+![](media/c769ffa7b68eb36516a429147d5f65b6.png)
 
 （9）Tap Write Value and the page HEX or Tex appears as shown in the figure below.
 
@@ -1853,7 +1963,8 @@ Go to [Google Play](https:/developer.android.google.cn/distribute?hl=zh-cn)→se
 
 （10）Open the serial port monitor of Arduino and input a 0 or other character.
 
-<img src="/media/767ed0b7d1876e63ff109d8a355209ac.png" style="zoom:67%;" />
+
+![](media/767ed0b7d1876e63ff109d8a355209ac.png)
 
 （11）Click Write and open serial port monitor to confirm whether it the signal 0 or other character is received.
 
@@ -1909,7 +2020,8 @@ void loop() {
 
 ![](media/wps29.jpg)
 
-<img src="/media/767ed0b7d1876e63ff109d8a355209ac.png" style="zoom: 67%;" />
+
+![](media/767ed0b7d1876e63ff109d8a355209ac.png)
 
 Click Write on the mobile APP and send 1 or 0 to control the LED. When you send “1”, the LED is on, and when you send“0”, the LED is off.(**After the Bluetooth project is completed, unplug it from the development board, so as not to affect the subsequent code burning process**)
 
@@ -2445,7 +2557,8 @@ patterns orderly and repeats this sequence.
 
 ### **Project 13: Light-following Tank**
 
-<img src="/media/ecf3b259b6bce18922959388dc4a8466.jpeg" style="zoom: 50%;" />
+
+![](media/ecf3b259b6bce18922959388dc4a8466.jpeg)
 
 **(1)Description**:
 
@@ -2559,7 +2672,8 @@ After uploading the test code successfully, connecting according to the wiring d
 
 ### **Project 14: Ultrasonic Sound-following Tank**
 
-<img src="/media/26de2c574af94f92874749054eacf3e9.jpeg" style="zoom: 50%;" />
+
+![](media/26de2c574af94f92874749054eacf3e9.jpeg)
 
 **(1)Description:**
 
@@ -2697,7 +2811,8 @@ After uploading the test code successfully, connecting according to the wiring d
 
 ### **Project 15: Ultrasonic Obstacle Avoidance Tank**
 
-<img src="/media/7bdae4a3b3bd2c295d9ff61ca9bd792f.jpeg" style="zoom: 50%;" />
+
+![](media/7bdae4a3b3bd2c295d9ff61ca9bd792f.jpeg)
 
 **(1)Description:**
 
@@ -2856,7 +2971,8 @@ After upload the test code successfully, wire up, turn the DIP switch to the ON 
 
 ### **Project 16: Move-in-Confined-Space Tank**
 
-<img src="/media/b519c777b40a0de462f10814d4c3ca48.jpeg" style="zoom:50%;" />
+
+![](media/b519c777b40a0de462f10814d4c3ca48.jpeg)
 
 **(1)Description:**
 
@@ -2966,7 +3082,8 @@ After uploading the test code successfully and powering it up, the smart car mov
 
 ### **Project 17: Line-tracking Tank**
 
-<img src="/media/f07697b638146afdcd6dea654f5d2137.jpeg" style="zoom:50%;" />
+
+![](media/f07697b638146afdcd6dea654f5d2137.jpeg)
 
 **(1)Description:**
 
@@ -3105,7 +3222,8 @@ After uploading the test code successfully and powering it up, the smart car mov
 
 ### **Project 18: Fire Extinguishing Tank**
 
-<img src="/media/b407e190f2308dcdb0a1570795fe2b54.jpeg" style="zoom:50%;" />
+
+![](media/b407e190f2308dcdb0a1570795fe2b54.jpeg)
 
 **(1)Description:**
 
@@ -3622,152 +3740,212 @@ The following table illustrates the functions of corresponding keys:
 <td></td>
 </tr>
 <tr class="even">
-<td><img src="/media/1118dccd714c7988a51cf2dde58627e3.png" style="width:1.41319in;height:0.34306in" /></td>
+<td>
+
+![](media/1118dccd714c7988a51cf2dde58627e3.png)</td>
 <td>Pair and connect HM-10 Bluetooth module;click again to disconnect</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><img src="/media/b23e65f788685576275cc16bf0b679cc.png" style="width:1.22292in;height:0.32986in" /></td>
+<td>
+
+![](media/b23e65f788685576275cc16bf0b679cc.png)</td>
 <td>select the robot to operate</td>
 <td></td>
 </tr>
 <tr class="even">
-<td><img src="/media/8d910d19cec4d03b5d9cb787425d8d7c.png" style="width:1.14583in;height:0.50069in" /></td>
+<td>
+
+![](media/8d910d19cec4d03b5d9cb787425d8d7c.png)</td>
 <td>to control the movements of the robot by buttons</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><img src="/media/9c0c7230244e08fc5afa28b18e8b4241.png" style="width:1.15556in;height:0.475in" /></td>
+<td>
+
+![](media/9c0c7230244e08fc5afa28b18e8b4241.png)</td>
 <td>To control the movements of the robot by joystick</td>
 <td></td>
 </tr>
 <tr class="even">
-<td><img src="/media/3ab61154b4ae730a3757f40171846825.png" style="width:1.1375in;height:0.49097in" /></td>
+<td>
+
+![](media/3ab61154b4ae730a3757f40171846825.png)</td>
 <td>To control the movements of the robot by gravity</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><img src="/media/fe15b0e4a7e705027cb042d0fd2398ea.png" style="width:1.13611in;height:0.52708in" /></td>
+<td>
+
+![](media/fe15b0e4a7e705027cb042d0fd2398ea.png)</td>
 <td>Send “F”when pressed and “S”when released</td>
 <td>The car moves forward when it is pressed and stops when released</td>
 </tr>
 <tr class="even">
-<td><img src="/media/b1765938932b8633bd5a96af0293ef24.png" style="width:0.57847in;height:1.02361in" /></td>
+<td>
+
+![](media/b1765938932b8633bd5a96af0293ef24.png)</td>
 <td>Send “L”when pressed and “S”when released</td>
 <td>The car turns left when it is pressed tight and stops when released</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/67f26bd7d2076922470e8805711f2ef9.png" style="width:0.54444in;height:1.05139in" /></td>
+<td>
+
+![](media/67f26bd7d2076922470e8805711f2ef9.png)</td>
 <td>Send “R”when pressed and “S”when released</td>
 <td>The car turns right when it is pressed tight and stops when released</td>
 </tr>
 <tr class="even">
-<td><img src="/media/77615a8ca984e538d58e02ac90bc5382.png" style="width:1.10903in;height:0.5875in" /></td>
+<td>
+
+![](media/77615a8ca984e538d58e02ac90bc5382.png)</td>
 <td>Send “B”when pressed and “S”when released</td>
 <td>The car turns back when it is pressed tight and stops when released</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/f58421773a56c911b09c150d08b0fd67.png" style="width:1.7625in;height:0.16806in" /></td>
+<td>
+
+![](media/f58421773a56c911b09c150d08b0fd67.png)</td>
 <td>Send “u”+digit+“#”when dragged</td>
 <td>Drag to change the speed of the left motor</td>
 </tr>
 <tr class="even">
-<td><img src="/media/a05432839507dd25b7dc7eb1bb9a02bb.png" style="width:1.75833in;height:0.13542in" /></td>
+<td>
+
+![](media/a05432839507dd25b7dc7eb1bb9a02bb.png)</td>
 <td>Send “v”+digit+“#”when dragged</td>
 <td>Drag to change the speed of the right motor</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/5dd730ab4d2299210dc2399303b94e33.png" style="width:1.27708in;height:0.44653in" /></td>
+<td>
+
+![](media/5dd730ab4d2299210dc2399303b94e33.png)</td>
 <td>Select to enter Function page</td>
 <td></td>
 </tr>
 <tr class="even">
-<td><img src="/media/a352ca9be952db2838540657b9a70f8c.png" style="width:0.65139in;height:0.66944in" /></td>
+<td>
+
+![](media/a352ca9be952db2838540657b9a70f8c.png)</td>
 <td>Send “G”when pressed and “S”when pressed again</td>
 <td>Enter obstacle avoidance mode when pressed and exit when pressed again</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/64da14a6ca501aa97f8eb8895e9f6b1c.png" style="width:0.65764in;height:0.70139in" /></td>
+<td>
+
+![](media/64da14a6ca501aa97f8eb8895e9f6b1c.png)</td>
 <td>Send “h”when pressed and “S”when pressed again</td>
 <td>Enter following mode when pressed and exit when pressed again</td>
 </tr>
 <tr class="even">
-<td><img src="/media/e4f3b211f8c8b06d1eab9dd2281dff74.png" style="width:0.65139in;height:0.72986in" /></td>
+<td>
+
+![](media/e4f3b211f8c8b06d1eab9dd2281dff74.png)</td>
 <td>Send “e”when pressed and “S”when pressed again</td>
 <td>Enter line-tracking mode when pressed and exit when pressed again</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/3d662f37603a8f0c1c34ab2b9ff28c63.png" style="width:0.65069in;height:0.64306in" /></td>
+<td>
+
+![](media/3d662f37603a8f0c1c34ab2b9ff28c63.png)</td>
 <td>Send “f”when pressed and “S”when pressed again</td>
 <td>Enter move-in-confined-space mode when pressed and exit when pressed again</td>
 </tr>
 <tr class="even">
-<td><img src="/media/48ab7c8c488c61abc162dbda0fc75f27.png" style="width:0.66806in;height:0.64028in" /></td>
+<td>
+
+![](media/48ab7c8c488c61abc162dbda0fc75f27.png)</td>
 <td>Send “i”when pressed and “S”when pressed again</td>
 <td>Enter light following mode when pressed and exit when pressed again</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/4250a152c647cc59f72bf51328943371.png" style="width:0.66806in;height:0.76319in" /></td>
+<td>
+
+![](media/4250a152c647cc59f72bf51328943371.png)</td>
 <td>Send “j”when pressed and “S”when pressed again</td>
 <td>Enter fire extinguishing mode when pressed and exit when pressed again</td>
 </tr>
 <tr class="even">
-<td><img src="/media/cc420ba3d148bd6b720dd44df9a82768.png" style="width:0.95625in;height:0.40833in" /></td>
+<td>
+
+![](media/cc420ba3d148bd6b720dd44df9a82768.png)</td>
 <td>Select to enter facial expression display mode</td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><img src="/media/17261f134c25702ae129624860ab8fe1.png" style="width:0.64861in;height:0.73819in" /></td>
+<td>
+
+![](media/17261f134c25702ae129624860ab8fe1.png)</td>
 <td>Send “k”when pressed and “z”when pressed again</td>
 <td>Show smiling pattern when clicked and clear expression when clicked again</td>
 </tr>
 <tr class="even">
-<td><img src="/media/a8bff045e822a06a24bfd7599c9f142a.png" style="width:0.63125in;height:0.7875in" /></td>
+<td>
+
+![](media/a8bff045e822a06a24bfd7599c9f142a.png)</td>
 <td>Send “l”when pressed and “z”when pressed again</td>
 <td>Show disgusting pattern when clicked and clear expression when clicked again</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/8729f3ac4adf446b388221ae2e4cf71f.png" style="width:0.63333in;height:0.77153in" /></td>
+<td>
+
+![](media/8729f3ac4adf446b388221ae2e4cf71f.png)</td>
 <td>Send “m”when pressed and “z”when pressed again</td>
 <td>Show happy face when clicked and clear expression when clicked again</td>
 </tr>
 <tr class="even">
-<td><img src="/media/63d935cd1958863f862374ded9b87d6b.png" style="width:0.62639in;height:0.71944in" /></td>
+<td>
+
+![](media/63d935cd1958863f862374ded9b87d6b.png)</td>
 <td>Send “n”when pressed and “z”when pressed again</td>
 <td>Show sad pattern when clicked and clear expression when clicked again</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/5e84087020b919a85495831b231efa5a.png" style="width:0.63194in;height:0.71597in" /></td>
+<td>
+
+![](media/5e84087020b919a85495831b231efa5a.png)</td>
 <td>Send “o”when pressed and “z”when pressed again</td>
 <td>Show disparaging pattern when clicked and clear expression when clicked again</td>
 </tr>
 <tr class="even">
-<td><img src="/media/3b7d99862c2d9a5e7337645b4548091e.png" style="width:0.66111in;height:0.77639in" /></td>
+<td>
+
+![](media/3b7d99862c2d9a5e7337645b4548091e.png)</td>
 <td>Send “p”when pressed and “z”when pressed again</td>
 <td>Show heart-shaped pattern when clicked and clear expression when clicked again</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/41bf8b28dea6061cea89b640f5646403.png" style="width:1.14375in;height:0.3875in" /></td>
+<td>
+
+![](media/41bf8b28dea6061cea89b640f5646403.png)</td>
 <td>Choose to enter the custom function interface; there are six keys 1,2,3,4,5,6; with these keys, you can expand some functions by yourself</td>
 <td></td>
 </tr>
 <tr class="even">
-<td><img src="/media/06b8f32aae6c9914ef227d6966ea537f.png" style="width:1.4in;height:0.24931in" /></td>
+<td>
+
+![](media/06b8f32aae6c9914ef227d6966ea537f.png)</td>
 <td>Click to send “w”</td>
 <td>Click to display the analog value detected by the photoresistor on the left</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/a89df3c223e6a7d4eac29d4fe2ee14af.png" style="width:1.42153in;height:0.27708in" /></td>
+<td>
+
+![](media/a89df3c223e6a7d4eac29d4fe2ee14af.png)</td>
 <td>Click to send“y”</td>
 <td>Click to display the analog value detected by the photoresistor on the right</td>
 </tr>
 <tr class="even">
-<td><img src="/media/a76df707b84409e57a1167889c3510d9.png" style="width:1.40764in;height:0.26389in" /></td>
+<td>
+
+![](media/a76df707b84409e57a1167889c3510d9.png)</td>
 <td>Click to send“x”</td>
 <td>Click to show the distance detected by ultrasonic sensor (unit: cm)</td>
 </tr>
 <tr class="odd">
-<td><img src="/media/704e5c6a72d89ee8f78d79ff3cd9537c.png" style="width:1.12292in;height:0.36736in" /></td>
+<td>
+
+![](media/704e5c6a72d89ee8f78d79ff3cd9537c.png)</td>
 <td><p>Click to send“c”</p>
 <p>Click again to send“d”</p></td>
 <td>Press to turn on the fan and press again to turn off it</td>
@@ -4807,11 +4985,8 @@ However, we use pins to fix sensors and modules, which makes the detachment and 
 
 All the projects have been completed. Hope you’d obtain some fresh knowledge. If you encounter any problem involves this kit, please feel free to contact our customer service professionals who will help you timely.
 
-And we strongly recommend you to have a go on the following products rolled out by Keyestudio. Thank you for your attention.
 
-|                                     |                                                                        |                                              |
-| ----------------------------------- | ---------------------------------------------------------------------- | -------------------------------------------- |
-|![](media/wps7.jpg)| ![](media/wps11.png) |![](media/ac1b7dc172c3f335b5370eb3b9b8e173.jpeg)|
-|![](media/wps12.png)| ![](media/wps13.png) |![](media/a523f8f659b88422e6751233dfcf698e.jpeg)|
+
+
 
 
