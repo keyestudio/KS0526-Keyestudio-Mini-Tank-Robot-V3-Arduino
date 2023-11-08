@@ -4,7 +4,7 @@
 
 ## **Read me frist**
 
- **Download the APP, Code and library from the link: <https://fs.keyestudio.com/KS0523>**
+ **Download the APP, Code and library from the link: <https://fs.keyestudio.com/KS0526>**
 
 ## **1. Introduction**
 
