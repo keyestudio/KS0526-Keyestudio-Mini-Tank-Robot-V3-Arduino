@@ -474,26 +474,7 @@ BT remote control distance: 30 meters (measured)
 
 # **5. Install Arduino IDE and Driver**
 
-1)  **Installing Arduino IDE**
-
-When you get control board, you need to download Arduino IDE and driver firstly.
-
-You could download Arduino IDE from the official website:<https:/www.arduino.cc/>, click the **SOFTWARE** on the browse bar,
-click“DOWNLOADS”to enter download page, as shown below:
-
-![](media/wps1.jpg)
-
-There are various versions of IDE for Arduino. Just download a version compatible with your system. Here we will show you how to download and install the windows version of Arduino IDE.
-
-![](media/wps2.jpg)
-
-There are two versions of IDE for WINDOWS system. You can choose between the installer (.exe) and the Zip file. For installer, it can be directly downloaded, without the need of installing it manually. However, for Zip package, you will need to install the driver manually.
-
-![](media/wps11-169673539464310.jpg)
-
-Click JUST DOWNLOAD.
-
-2)  **Keyestudio V4.0 Development Board**
+**Keyestudio V4.0 Development Board**
 
 You need to know that keyestudio V4.0 development board is the core of this smart car.
 
@@ -567,49 +548,17 @@ We can power it with a USB cable, the external DC power jack (DC 7-12V) or
 </tbody>
 </table>
 
-3)  **Installing the Driver of the V4.0 Board**
+**Installing Arduino IDE**
 
-Let’s install the driver of keyestudio V4.0 board. The USB-TTL chip on V4.0 board adopts CP2102 serial chip. The driver program media/ddd21c81338ae1f6b7f84de2a3caecf0.png)to start compiling the program, and check errors.
+![](/media/ide.png)
 
-![](media/fa97797b2bbcca9d4a91117398bd77d0.png)
+**Click the link to start learning how to download software, install drivers, upload code, and install library files.**
 
-Click![](media/9c9158a5d49baa740ea2f0048f655017.png)to upload the program
+**[https://getting-started-with-arduino.readthedocs.io](https://getting-started-with-arduino.readthedocs.io/en/latest/Arduino%20IDE%20Tutorial.html)**
 
-![](media/d15a8d62cf9777001924a2ff8113d13a.png)
 
-After the program is uploaded successfully, the onboard LED blinks. Congratulation, you finish the first program.
 
-# **6. How to Add a Library?**
-
-**(1) What are Libraries ?**
-
-[Libraries ](https:/www.arduino.cc/en/Reference/Libraries)are a collection of code that make it easy for you to connect a sensor,display, module, etc.
-
-For example, the built-in LiquidCrystal library helps talk to LCD displays. There are hundreds of additional libraries available on the Internet for download.
-
-The built-in libraries and some of these additional libraries are listed in the reference. 
-
-**(2) How to Install a Library ?**
-
-Here we will introduce the most simple way to add libraries .
-
-**Step 1：**After downloading well the Arduino IDE, you can right-click the icon of Arduino IDE.
-
-Find the option "Open file location"
-
-![](media/f1d5fd3883e0997ca46dcf8513733c46.png)
-
-**Step 2:** Click Open file location \>libraries
-
-![](media/d65edbf3dd79595c741e7e7049334e90.png)
-
-**Step 3：**Next, find out the“libraries”folder of trobot(seen in the link: https:/fs.keyestudio.com/KS0526)
-
-Copy them into libraries of Arduino
-
-![](media/ef128138a3b57f2927bf35784021c13a.png)
-
-# **7. Projects**
+# **6. Projects**
 
 Note: (G), marked on each sensor and module, is the negative pole and connected to“G”, ”-”or “GND”on the sensor shield or control board ; (V) is the positive pole and linked with V , VCC, + or 5V on the sensor shield or control board.
 
