@@ -4376,7 +4376,7 @@ Please carefully check the wiring.When we want to show the fire extinguishing fu
   http://www.keyestudio.com
 */
 #include <IRremote.h>
-IRrecv irrecv(A2);  //
+IRrecv irrecv(3);  //
 decode_results results;
 long ir_rec;  //used to save the IR value 
 
@@ -4403,23 +4403,23 @@ unsigned char clear[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0
 #define ML_Ctrl 4  //define the direction control pin of the left motor as 4
 #define ML_PWM 5   //define the PWM control pin of the left motor as 5
 #define MR_Ctrl 2  //define the direction control pin of the right sensor as 2
-#define MR_PWM 9   //define the PWM control pin of the right motor as 9
+#define MR_PWM 6   //define the PWM control pin of the right motor as 6
 
 char ble_val;      //used to save the Bluetooth value 
 byte speeds_L = 200; //the initial speed of the left motor is 200
 byte speeds_R = 200; // the initial speed of the right motor is 200
 String speeds_l, speeds_r; //receive PWM characters and convert them into PWM value
 
-//#define light_L_Pin A0   //define the pin of the left photoresistor
+//#define light_L_Pin A2   //define the pin of the left photoresistor
 //#define light_R_Pin A1   //define the pin of the right photoresistor
 int left_light;
 int right_light;
 
-int flame_L = A0; //define the analog port of the left flame sensor to A0
+int flame_L = A2; //define the analog port of the left flame sensor to A2
 int flame_R = A1; //define the analog port of the right flame sensor to A1
 
 //wire up the line tracking sensor
-#define L_pin  6  //left
+#define L_pin  11  //left
 #define M_pin  7  //middle
 #define R_pin  8  //right
 int L_val, M_val, R_val, flame_valL, flame_valR;
@@ -4439,7 +4439,7 @@ int a2;
 
 #define servoPin 10  //servo Pin
 
-bool flag;  // flag invariable used to enter and exit a mode
+bool flag;  // flage invarible, used to enter and exit a mode
 void setup() {
   Serial.begin(9600);
   irrecv.enableIRIn();  //Initialize the library of the IR remote
@@ -4542,7 +4542,7 @@ void loop() {
     Serial.println(ir_rec, HEX);
     switch (ir_rec) {
       case 0xFF629D: Car_front();   break;   //the command to go front
-      case 0xFFA857: Car_back();    break;   //the command to go back
+      case 0xFFA857: Car_back();    break;   //the command  to go back
       case 0xFF22DD: Car_left();    break;   //the command to rotate to left
       case 0xFFC23D: Car_right();   break;   //the command to rotate to right
       case 0xFF02FD: Car_Stop();    break;   //the command to stop
@@ -4852,7 +4852,7 @@ void IIC_start()
 //transmit data
 void IIC_send(unsigned char send_data)
 {
-  for (byte mask = 0x01; mask != 0; mask <<= 1) //each character has 8 digits, which is detected one by one
+  for (byte mask = 0x01; mask != 0; mask <<= 1) //ecah character has 8 digits, which is detected one by one
   {
     if (send_data & mask) { //set high or low levels in light of each bit(0 or 1)
       digitalWrite(SDA_Pin, HIGH);
