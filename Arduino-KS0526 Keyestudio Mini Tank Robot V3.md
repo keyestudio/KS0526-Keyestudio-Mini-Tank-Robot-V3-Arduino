@@ -55,6 +55,7 @@ Infrared remote control distance: 10 meters (measured)
 BT remote control distance: 30 meters (measured)
 
 # **4. Kit List**
+
 |Numbers|Picture|Name|QTY|
 |:--:|:--:|:--:|:--:|
 |1|![](media/e7109191dcd9c2d014964b9e2409dc0c.png)|Wrench|1|
