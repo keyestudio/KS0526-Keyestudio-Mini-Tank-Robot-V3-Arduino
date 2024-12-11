@@ -6,14 +6,14 @@
 */
 
 //wire up the line tracking sensor
-#define L_pin  6  //left
+#define L_pin  11  //left
 #define M_pin  7  //middle
 #define R_pin  8  //right
 
 #define ML_Ctrl 4  //define the direction control pin of thel left motor
 #define ML_PWM 5   //define the PWM control pins of the left motor
 #define MR_Ctrl 2  //define the direction control pin of thel right motor
-#define MR_PWM 9   //define the PWM control pin of the right motor
+#define MR_PWM 6   //define the PWM control pin of the right motor
 int L_val, M_val, R_val;
 
 void setup()

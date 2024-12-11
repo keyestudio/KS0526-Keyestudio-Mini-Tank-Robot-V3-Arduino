@@ -1,6 +1,6 @@
 # **KS0526 Keyestudio Mini Tank Robot V3**
 
-![](/media/9e6856cf1b771036e3fe440816fa114f.png)
+![](./media/9e6856cf1b771036e3fe440816fa114f.png)
 
 # **Read me frist**
 
@@ -55,421 +55,59 @@ Infrared remote control distance: 10 meters (measured)
 BT remote control distance: 30 meters (measured)
 
 # **4. Kit List**
+|Numbers|Picture|Name|QTY|
+|:--:|:--:|:--:|:--:|
+|1|![](media/e7109191dcd9c2d014964b9e2409dc0c.png)|Wrench|1|
+|2|![](media/575e374ce74fa69b0b3f43610de08ff6.jpg)|Driving Wheels|2|
+|3|![](media/b73abfc7a734f4862d06712e6310280b.png)|M4*12mm Hexagon Screws|2|
+|4|![](media/10d9de74b35431cbaed2e4056ab13b96.png)|Caterpillar Band|2|
+|5|![](media/bc31aba110b7ad911b46ea77fcb0a7fd.jpg)|Driven Wheel|2|
+|6|![](media/85982dd58bc2a8bdc8b60968e0b4d7a9.png)|M4*35mm Hexagon Screws|2|
+|7|M4*35mm Hexagon Screws|Bottom Parts|1|
+|8|![](media/8ecfc7e4f74bd2001452e33f74eace2e.png)|Keyestudio V4.0 Development Board|1|
+|9|![](media/4ebdedd20a23f95ce5ae9c0a4d124a81.png)|L298P Motor Driver Shield|1|
+|10|![](media/725b40552b5104104dc109c5fe6ad7b3.png)|Keyestudio HM-10 BT-4.0|1|
+|11|![](media/b0906d68835b2659491e53a85567569b.png)|HC-SR04 Ultrasonic Sensor|1|
+|12|![](media/4a2be9e7bf76b26b49e10d5d2f3f9bda.png)|Keyestudio 8*16 LED Panel|1|
+|13|![](media/0b130b1b8eb4e626a9cad08906af2ef5.png)|Yellow LED Module|1|
+|14|![](media/ecf808f114234039582880ab4682c4e6.png)|Flame Sensor|2|
+|15|![](media/ec37bc098e230744bac2fb22b91c503e.png)|130 Motor Module|1|
+|16|![](media/694d563668ffd3ff9b453f45963c16f2.png)|IR Receiver Module|1|
+|17|![](media/9b0193c19a5a7392052adffdfc4e10c2.png)|Photoresistor|2|
+|18|![](media/3960ff94f47aca1521f294d929ee2592.png)|Acrylic Board for8*16 LED Panel|1|
+|19|![](media/a8997d05138f338432d7d2e02de72bfd.png)|Upper Board|1|
+|20|![](media/9665dfd887f3b761c887fe49e47fbdef.png)|Acrylic Board|1|
+|21|![](media/82e72b8a1e3d2c0eebfa0e96e4b66b83.png)|Acrylic Board|1|
+|22|![](media/528c200c8566fe1b65715aa7bb21dad3.png)|Keyestudio JMFP-4 17-Key Remote Control|1|
+|23|![](media/e686213ffb2aa53d9960f9f6d1b600cd.png)|Keyestudio 9G 180 °Servo|1|
+|24|![](media/4f8d5af6dee9016b45d975adb2391d37.png)|USB Cable|1|
+|25|![](media/f353b46e6c2c0597c3268d5aa137fd99.png)|3.0*40MM Screwdriver|1|
+|26|![](media/a3d702d65769c0e0b682a77a152ca5cc.png)|4P M-F PH2.0mm to 2.54 Dupont Wire|1|
+|27|![](media/2b70dfddb2057cbfc54ecb8666c64aeb.png)|4P HX-2.54 Dupont Wire (Black-Red-White-Brown)|1|
+|28|![](media/9be46d555e20cfcf32b981ccd90a376f.png)|5P JST-PH2.0MM Dupont Wire|1|
+|29|![](./media/6a1c8e7c27ca08c62ac0c30a0dbd4578.png)|3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black)|1|
+|30|![](media/f493282b2846fe01fe6861126b368480.png)|3P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)|3|
+|31|![](media/7856a38f34cdeb19966cd0fb99b55f85.png)|4P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)|2|
+|32|![](media/26ed32284d40ce65cc336eb952755e64.png)|4P XH2.54 to PH2.0Dupont Wire（Green-Blue-Red-Black)|1|
+|33|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M1.4*8MM Round-head Screws|6|
+|34|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M1.4 Nuts|6|
+|35|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M2 Nuts|8|
+|36|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M2*8MM Round-head Screws|8|
+|37|![](media/1ae2d251fa671bdbedd375c37ed394aa.png)|M1.2*5MM Round-head Screws|6|
+|38|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M3*6MM Round-head Screws|18|
+|39|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M3*10MM Round-head Screws|3|
+|40|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M3 Nuts|3|
+|41|![](media/0e0fd3c7109c9fdaae633447ace2452f.png)|M3*10MM Dual-pass Copper Pillar|4|
+|42|![](media/0e0fd3c7109c9fdaae633447ace2452f.png)|M3*40MM Dual-pass Copper Pillar|4|
+|43|![](media/f208158da83eb49a2fca4244c3f05347.png)|43093 Blue Technic Axle Pin with Friction Ridges|13|
+|44|![](media/bcef2d126a80b57c944cc15d4df4ee07.png)|4265c Technic Bush|13|
+|45|![](media/95a430f19b519f4c80f1aee9bdea1605.png)|Winding Pipe|1|
+|46|![](media/247e99cde38f40eb256ed698ec47bb1d.png)|3*100MM Ties|5|
+|47|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M2.5 Wrench|1|
+|48|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M3 Wrench|1|
+|49|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M1.5 Wrench|1|
+|50|![](media/8810f202c4cfdc25b290754e21d2fdc8.png)|Cardboard|1|
 
-<table>
-<tbody>
-<tr class="odd">
-<td>#</td>
-<td>Picture</td>
-<td>Name</td>
-<td>QTY</td>
-</tr>
-<tr class="even">
-<td>1</td>
-<td>
-
- ![](media/e7109191dcd9c2d014964b9e2409dc0c.png) 
-</td>
-<td>Wrench</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>2</td>
-<td>
-
-![](media/575e374ce74fa69b0b3f43610de08ff6.jpg)
-</td>
-<td>Driving Wheels</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>3</td>
-<td>
-
-![](media/b73abfc7a734f4862d06712e6310280b.png)
-</td>
-<td>M4*12mm Hexagon Screws</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>4</td>
-<td>
-
-![](media/10d9de74b35431cbaed2e4056ab13b96.png)
-</td>
-<td>Caterpillar Band</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>5</td>
-<td>
-
-![](media/bc31aba110b7ad911b46ea77fcb0a7fd.jpg)</td>
-<td>Driven Wheel</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>6</td>
-<td>
-
-![](media/85982dd58bc2a8bdc8b60968e0b4d7a9.png)</td>
-<td>M4*35mm Hexagon Screws</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>7</td>
-<td>
-
-![](media/782340778c2838b36784c6920821726a.png)
-
-</td>
-<td>Bottom Parts</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>8</td>
-<td>
-
-![](media/8ecfc7e4f74bd2001452e33f74eace2e.png)</td>
-<td>Keyestudio V4.0 Development Board</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>9</td>
-<td>
-
-![](media/4ebdedd20a23f95ce5ae9c0a4d124a81.png)</td>
-<td>L298P Motor Driver Shield</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>10</td>
-<td>
-
-![](media/725b40552b5104104dc109c5fe6ad7b3.png)</td>
-<td>Keyestudio HM-10 BT-4.0</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>11</td>
-<td>
-
-![](media/b0906d68835b2659491e53a85567569b.png)</td>
-<td>HC-SR04 Ultrasonic Sensor</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>12</td>
-<td>
-
-![](media/4a2be9e7bf76b26b49e10d5d2f3f9bda.png)</td>
-<td>Keyestudio 8*16 LED Panel</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>13</td>
-<td>
-
-![](media/0b130b1b8eb4e626a9cad08906af2ef5.png)</td>
-<td>Yellow LED Module</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>14</td>
-<td>
-
-![](media/ecf808f114234039582880ab4682c4e6.png)</td>
-<td>Flame Sensor</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>15</td>
-<td>
-
-![](media/ec37bc098e230744bac2fb22b91c503e.png)</td>
-<td>130 Motor Module</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>16</td>
-<td>
-
-![](media/694d563668ffd3ff9b453f45963c16f2.png)</td>
-<td>IR Receiver Module</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>17</td>
-<td>
-
-![](media/9b0193c19a5a7392052adffdfc4e10c2.png)</td>
-<td>Photoresistor</td>
-<td>2</td>
-</tr>
-<tr class="odd">
-<td>18</td>
-<td>
-
-![](media/3960ff94f47aca1521f294d929ee2592.png)</td>
-<td><p>Acrylic Board for</p>
-<p>8*16 LED Panel</p></td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>19</td>
-<td>
-
-![](media/a8997d05138f338432d7d2e02de72bfd.png)</td>
-<td>Upper Board</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>20</td>
-<td>
-
-![](media/9665dfd887f3b761c887fe49e47fbdef.png)
-![](media/82e72b8a1e3d2c0eebfa0e96e4b66b83.png)</td>
-<td>Acrylic Board</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>21</td>
-<td>
-
-![](media/528c200c8566fe1b65715aa7bb21dad3.png)</td>
-<td><p>Keyestudio JMFP-4 17-Key</p>
-<p>Remote Control</p>
-<p>(Without Batteries)</p></td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>22</td>
-<td>
-
-![](media/e686213ffb2aa53d9960f9f6d1b600cd.png)</td>
-<td>Keyestudio 9G 180 °Servo</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>23</td>
-<td>
-
-![](media/4f8d5af6dee9016b45d975adb2391d37.png)</td>
-<td>USB Cable</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>24</td>
-<td>
-
-![](media/f353b46e6c2c0597c3268d5aa137fd99.png)</td>
-<td>3.0*40MM Screwdriver</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>25</td>
-<td>
-
-![](media/a3d702d65769c0e0b682a77a152ca5cc.png)</td>
-<td><p>4P M-F PH2.0mm to 2.54 Dupont Wire</p>
-<p>(Green-Blue-Red-Black)</p></td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>26</td>
-<td>
-
-![](media/2b70dfddb2057cbfc54ecb8666c64aeb.png)</td>
-<td>4P HX-2.54 Dupont Wire (Black-Red-White-Brown)</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>27</td>
-<td>
-
-![](media/9be46d555e20cfcf32b981ccd90a376f.png)</td>
-<td>5P JST-PH2.0MM Dupont Wire</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>28</td>
-<td>
-
-![](media/6a1c8e7c27ca08c62ac0c30a0dbd4578.png)</td>
-<td>3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black)</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>29</td>
-<td>
-
-![](media/f493282b2846fe01fe6861126b368480.png)</td>
-<td>3P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>30</td>
-<td>
-
-![](media/7856a38f34cdeb19966cd0fb99b55f85.png)</td>
-<td>4P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)</td>
-<td>2</td>
-</tr>
-<tr class="even">
-<td>31</td>
-<td>
-
-![](media/26ed32284d40ce65cc336eb952755e64.png)</td>
-<td><p>4P XH2.54 to PH2.0</p>
-<p>Dupont Wire（Green-Blue-Red-Black)</p></td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>32</td>
-<td>
-
-![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
-<td>M1.4*8MM Round-head Screws</td>
-<td>6</td>
-</tr>
-<tr class="even">
-<td>33</td>
-<td>
-
-![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)</td>
-<td>M1.4 Nuts</td>
-<td>6</td>
-</tr>
-<tr class="odd">
-<td>34</td>
-<td>
-
-![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)</td>
-<td>M2 Nuts</td>
-<td>8</td>
-</tr>
-<tr class="even">
-<td>35</td>
-<td>
-
-![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
-<td>M2*8MM Round-head Screws</td>
-<td>8</td>
-</tr>
-<tr class="odd">
-<td>36</td>
-<td>
-
-![](media/1ae2d251fa671bdbedd375c37ed394aa.png)</td>
-<td>M1.2*5MM Round-head Screws</td>
-<td>6</td>
-</tr>
-<tr class="even">
-<td>37</td>
-<td>
-
-![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
-<td>M3*6MM Round-head Screws</td>
-<td>18</td>
-</tr>
-<tr class="odd">
-<td>38</td>
-<td>
-
-![](media/f304cb590f040f13b4bd93bfc636ddba.png)</td>
-<td>M3*10MM Round-head Screws</td>
-<td>3</td>
-</tr>
-<tr class="even">
-<td>39</td>
-<td>
-
-![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)</td>
-<td>M3 Nuts</td>
-<td>3</td>
-</tr>
-<tr class="odd">
-<td>40</td>
-<td>
-
-![](media/0e0fd3c7109c9fdaae633447ace2452f.png)</td>
-<td>M3*10MM Dual-pass Copper Pillar</td>
-<td>4</td>
-</tr>
-<tr class="even">
-<td>41</td>
-<td>
-
-![](media/0e0fd3c7109c9fdaae633447ace2452f.png)</td>
-<td>M3*40MM Dual-pass Copper Pillar</td>
-<td>4</td>
-</tr>
-<tr class="odd">
-<td>42</td>
-<td>
-
-![](media/f208158da83eb49a2fca4244c3f05347.png)</td>
-<td>43093 Blue Technic Axle Pin with Friction Ridges</td>
-<td>13</td>
-</tr>
-<tr class="even">
-<td>43</td>
-<td>
-
-![](media/bcef2d126a80b57c944cc15d4df4ee07.png)</td>
-<td>4265c Technic Bush</td>
-<td>13</td>
-</tr>
-<tr class="odd">
-<td>44</td>
-<td>
-
-![](media/95a430f19b519f4c80f1aee9bdea1605.png)</td>
-<td>Winding Pipe</td>
-<td>.12</td>
-</tr>
-<tr class="even">
-<td>45</td>
-<td>
-
-![](media/247e99cde38f40eb256ed698ec47bb1d.png)</td>
-<td>3*100MM Ties</td>
-<td>5</td>
-</tr>
-<tr class="odd">
-<td>46</td>
-<td>
-
-![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)</td>
-<td>L Type M2.5 Wrench</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>47</td>
-<td>
-
-![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)</td>
-<td>L Type M3 Wrench</td>
-<td>1</td>
-</tr>
-<tr class="odd">
-<td>48</td>
-<td>
-
-![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)</td>
-<td>L Type M1.5 Wrench</td>
-<td>1</td>
-</tr>
-<tr class="even">
-<td>49</td>
-<td>
-
-![](media/8810f202c4cfdc25b290754e21d2fdc8.png)</td>
-<td>Cardboard</td>
-<td>1</td>
-</tr>
-</tbody>
-</table>
 
 
 # **5. Install Arduino IDE and Driver**
@@ -478,15 +116,15 @@ BT remote control distance: 30 meters (measured)
 
 You need to know that keyestudio V4.0 development board is the core of this smart car.
 
-![](media/3b23d2c1112ba26a0c7ae9914ec14312.png)
+![](./media/3b23d2c1112ba26a0c7ae9914ec14312.png)
 
 Keyestudio V4.0 development board is based on ATmega328P MCU, and with a CP2102 Chip as a UART-to-USB converter.  
 
-![](media/308315eef3c603cdf0e8babfc4d9c297.jpeg)
+![](./media/308315eef3c603cdf0e8babfc4d9c297.jpeg)
 
 It has 14 digital input/output pins (of which 6 can be used as PWM outputs), 6 analog inputs, a 16 MHz quartz crystal, a USB connection, a power jack, 2 ICSP headers and a reset button.
 
-![](media/9652daf1229f38442c4c31934022be39.png)
+![](./media/9652daf1229f38442c4c31934022be39.png)
 
 We can power it with a USB cable, the external DC power jack (DC 7-12V) or female headers Vin/ GND(DC 7-12V)
 
@@ -550,7 +188,7 @@ We can power it with a USB cable, the external DC power jack (DC 7-12V) or
 
 **Installing Arduino IDE**
 
-![](/media/ide.png)
+![](./media/ide.png)
 
 **Click the link to start learning how to download software, install drivers, upload code, and install library files.**
 
@@ -599,11 +237,11 @@ We designed a shield based on the circuit of L298p.
 
 The stacked design reduces the technical difficulty of using and driving the motor.
 
-![](/media/693acafee3fa4f31c8067009b193f2b1.png)
+![](./media/693acafee3fa4f31c8067009b193f2b1.png)
 
 (5)  Connection Diagram：
 
-![](/media/d4b4ac75507402fce61ee29ed00ff7a8.png)
+![](./media/d4b4ac75507402fce61ee29ed00ff7a8.png)
 
 LED is connected to D3 port, and remember to install jumper caps onto the shield
 
@@ -616,7 +254,7 @@ LED is connected to D3 port, and remember to install jumper caps onto the shield
   Blink
   http://www.keyestudio.com
 */
-int LED = 3;  //Define the pin of LED to connect with digital port 3
+int LED = 9;  //Define the pin of LED to connect with digital port 9
 void setup()
 {
   pinMode(LED, OUTPUT); //Initialize the LED pin to output mode
@@ -651,7 +289,7 @@ We have succeeded in blinking LED. Next, let’s observe what will happen to the
   Blink
   http://www.keyestudio.com
 */
-int LED = 3;  //Define the pin of LED to connect with digital port 3
+int LED = 9;  //Define the pin of LED to connect with digital port 9
 void setup()
 {
   pinMode(LED, OUTPUT); //Initialize the LED pin to output mode
@@ -677,7 +315,7 @@ In this project, we will control LED’s brightness through PWM simulating breat
 
 PWM is a means of controlling the analog output via digital means. Digital control is used to generate square waves with different duty cycles (a signal that constantly switches between high and low levels) to control the analog output.In general, the input voltages of ports are 0V and 5V. What if the 3V is required? Or a switch among 1V, 3V and 3.5V? We cannot change resistors constantly. For this reason, we resort to PWM.
 
-![](/media/bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
+![](./media/bbcfcb9ae56abb7e80ee587246fc4be9.GIF)
 
 For Arduino digital port voltage outputs, there are only LOW and HIGH levels, which correspond to the voltage outputs of 0V and 5V respectively. You can define LOW as“0”and HIGH as“1’, and let the Arduino output five hundred‘0’or‘1’within 1 second. If output five hundred‘1’, that is 5V; if all of which is‘0’,that is 0V; if output 25001 pattern, that is 2.5V.
 
@@ -685,7 +323,7 @@ This process can be likened to showing a movie. The movie we watch are not compl
 
 2. Parameters：
 
-![](/media/0ea85307e1317c25f2a8d92f25319aa8.png)
+![](./media/0ea85307e1317c25f2a8d92f25319aa8.png)
 
 Control interface: Digital port 3
 
@@ -697,16 +335,16 @@ LED display color: yellow
 
 3. Components Needed:
 
-| Keyestudio V4.0 Development Board *1                | L298P Motor Driver Shield*1 | Yellow LED Module*1  |
-| --------------------------------------------------- | --------------------------- | -------------------- |
-| ![](media/wps38.jpg)                                | ![](media/wps39.jpg)        | ![](media/wps42.jpg) |
-| 3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black) | USB Cable*1                 |                      |
-| ![](media/wps43.jpg)                                | ![](media/wps41.jpg)        |                      |
+| Keyestudio V4.0 Development Board *1                | L298P Motor Driver Shield*1 | Yellow LED Module*1    |
+| --------------------------------------------------- | --------------------------- | ---------------------- |
+| ![](./media/wps38.jpg)                              | ![](./media/wps39.jpg)      | ![](./media/wps42.jpg) |
+| 3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black) | USB Cable*1                 |                        |
+| ![](./media/wps43.jpg)                              | ![](./media/wps41.jpg)      |                        |
 
 
 4)  Connection Diagram：
 
-![](/media/d4b4ac75507402fce61ee29ed00ff7a8.png)
+![](./media/d4b4ac75507402fce61ee29ed00ff7a8.png)
 
 5. Test Code：
 
@@ -717,7 +355,7 @@ LED display color: yellow
   pwm
   http://www.keyestudio.com
 */
-int LED = 3;  //Define the pin of LED to connect with digital port 3
+int LED = 9;  //Define the pin of LED to connect with digital port 9
 
 void setup () {
   pinMode (LED, OUTPUT); //Initialize the LED pin to output mode
@@ -742,7 +380,7 @@ Upload test code successfully, LED gradually changes from bright to dark, like h
     
     To repeat some certain statements, we could use FOR statement. FOR statement format is shown below:
 
-![](/media/65da124bdd0ea488291c71c6b879fe95.jpeg)
+![](./media/65da124bdd0ea488291c71c6b879fe95.jpeg)
 
 FOR cyclic sequence:
 
@@ -780,7 +418,7 @@ PWM is a technology to obtain analog quantity through digital method. Digital co
 
 Through the following five square waves, let’s acknowledge more about PWM.
 
-![](/media/553f3d1b6ca04e1aa0479841dd075fa2.png)
+![](./media/553f3d1b6ca04e1aa0479841dd075fa2.png)
 
 In the above figure, the green line represents a period, and value of analogWrite() corresponds to a percentage which is called Duty Cycle as well. Duty cycle implies that high-level duration is divided by low-level duration in a cycle. From top to bottom, the duty cycle of first square wave is 0% and its corresponding value is 0. The LED brightness is lowest, that is, light off. The more time the high level lasts, the brighter the LED. Therefore, the last duty cycle is 100%, which correspond to 255, and LED is the brightest. And 25% means darker.
 
@@ -799,7 +437,7 @@ Let’s modify the value of delay and remain the pin unchanged, then observe how
   pwm-slow
   http://www.keyestudio.com
 */
-int LED = 3;  //Define the pin of LED to connect with digital port 3
+int LED = 9;  //Define the pin of LED to connect with digital port 9
 
 void setup () {
   pinMode (LED, OUTPUT); //Initialize the LED pin to output mode
@@ -820,7 +458,7 @@ Upload the code to development board, LED flashes more slowly.
 
 ## **Project 3: Photoresistor**
 
-![](/media/36e7e08764ed3c61a1c22f86be8c23d9.jpeg)
+![](./media/36e7e08764ed3c61a1c22f86be8c23d9.jpeg)
 
 1. Description：
 
@@ -836,7 +474,7 @@ When the light intensity is stronger, the larger the analog port voltage, that i
 
 Photosensitive resistance resistance value: 5K Ou-0.5m
 
-Interface type: simulation port A0, A1
+Interface type: simulation port A1, A2
 
 Working voltage: 3.3V-5V
 
@@ -853,9 +491,9 @@ Pin spacing: 2.54mm
 
 4)  Connection Diagram
     
-    ![](/media/80a6d1141c4010d9b95e42c4993f9e14.png)
+    ![](./media/80a6d1141c4010d9b95e42c4993f9e14.png)
 
-We connect a photoresistor to A0 and make an experiment.
+We connect a photoresistor to A1and make an experiment.
 
 Let’s read its analog value first.
 
@@ -882,7 +520,7 @@ void loop() {
 
 6)  Test Results：
 
-![](/media/0e2fe0d2eb2b427af79c7cb76b2d9f3f.png)
+![](./media/0e2fe0d2eb2b427af79c7cb76b2d9f3f.png)
 
 When covering it, the value gets smaller; if not, the value gets larger
 
@@ -898,7 +536,7 @@ When covering it, the value gets smaller; if not, the value gets larger
 
 We know the value of the photoresistor. How about controlling the LED’s brightness by it?
 
-![](/media/7199a5af4f031c3c10120dca0ca91cf4.png)
+![](./media/7199a5af4f031c3c10120dca0ca91cf4.png)
 
 The LED’s brightness is controlled by PWM. Therefore, we connect the LED to PMW pin(pin 3) of the shield.
 
@@ -909,8 +547,8 @@ The LED’s brightness is controlled by PWM. Therefore, we connect the LED to PM
   photocell-analog output
   http://www.keyestudio.com
 */
-int analogInPin = A0;    // A1 is the input pin of photoresistor
-int analogOutPin = 3; // Digital port 3 is the output of PMW
+int analogInPin = A1;    // A1 is the input pin of photoresistor
+int analogOutPin = 9; // Digital port 3 is the output of PMW
 int sensorValue = 0;  // save the variable of the resistance value of photoresistors
 int outputValue = 0;  // Value output to PMW
 void setup() {
@@ -936,7 +574,7 @@ observe the LED’s brightness.
 
 1. Description：
 
-![](/media/d37c24e508361ab86b019135ab6950a9.png)
+![](./media/d37c24e508361ab86b019135ab6950a9.png)
 
 The tracking sensor is actually an infrared sensor. The component used here is the TCRT5000 infrared tube.
 
@@ -973,7 +611,7 @@ Note: the line tracking sensor is installed under the bottom of the robot.
 
 4)  Connection Diagram：
 
-![](/media/99fbd4f55c270c0a29ce284dbdf58c75.png)
+![](./media/99fbd4f55c270c0a29ce284dbdf58c75.png)
 
 5)  Test Code：
 
@@ -985,7 +623,7 @@ Note: the line tracking sensor is installed under the bottom of the robot.
   http://www.keyestudio.com
 */
 //The wiring of line tracking sensors
-#define L_pin  6  //for the sensor in the left 
+#define L_pin  11  //for the sensor in the left 
 #define M_pin  7  //for the sensor in the middle
 #define R_pin  8  //for the sensor in the right
 
@@ -1016,7 +654,7 @@ void loop ()
 
 Upload the code on development board, open serial monitor to check line tracking sensors. And the displayed value is 1(high level) when no signals are received. The value shifts into 0 when the sensor is covered with paper.
 
-![](/media/b9319753c148f66aabc9bf648ed93da1.png)
+![](./media/b9319753c148f66aabc9bf648ed93da1.png)
 
 7)  Code Explanation:
 
@@ -1030,7 +668,7 @@ Upload the code on development board, open serial monitor to check line tracking
 
 After knowing its working principle, you can connect an LED to D3. so as to control LED by line tracking sensor.
 
-![](/media/afd08e733c4e3e7f3357c243e9730579.png)
+![](./media/afd08e733c4e3e7f3357c243e9730579.png)
 
 ```c++
 /*
@@ -1040,9 +678,9 @@ After knowing its working principle, you can connect an LED to D3. so as to cont
   http://www.keyestudio.com
 */
 //LED pin
-#define LED 3
+#define LED 9
 //The wiring of line tracking sensors
-#define L_pin  6  //for the sensor in the left
+#define L_pin  11  //for the sensor in the left
 #define M_pin  7  //for the sensor in the middle
 #define R_pin  8  //for the sensor in the right
 
@@ -1076,7 +714,7 @@ void loop (){
 
 ## **Project 5: Flame Sensor**
 
-![](/media/7cf8c051f489b06119c262cd059c23c5.jpeg)
+![](./media/7cf8c051f489b06119c262cd059c23c5.jpeg)
 
 1)  Description：
 
@@ -1090,7 +728,7 @@ In the process of use, pay attention to keep the flame sensor in certain distanc
 
 2)  Parameters：
 
-![](/media/e2c77a94067ccd3e634fb3674c02b80f.png)
+![](./media/e2c77a94067ccd3e634fb3674c02b80f.png)
 
 Working voltage: 3.3V-5V (DC)
 
@@ -1098,13 +736,13 @@ Current: 100mA
 
 Maximum power: 0.5W
 
-Work temperature: -10 ° C to +50 degrees Celsius
+Work temperature: 0 ° C to +50 degrees Celsius
 
 Sensor size: 31.6mmx23.7mm
 
 Interface: 4pin turn 3PIN interface
 
-Output signal: analog signals A0, A1
+Output signal: analog signals A1, A2
 
 3)  Components Needed:
 
@@ -1117,7 +755,7 @@ Output signal: analog signals A0, A1
 
 4)  Connection Diagram：
 
-![](/media/33201c33dc7d202651bb2ff3b6c082c8.png)
+![](./media/33201c33dc7d202651bb2ff3b6c082c8.png)
 
 We can use two flame sensors to make a fire-distinguishing robot car. But in this experiment, we aim to read its analog value
 
@@ -1154,13 +792,13 @@ The closer the flame, the smaller the simulation value.
 
 Adjust the potentiometer on the module to maintain D1 at the critical point. When the sensor does not detect flame, the D1 will be off, but if the sensor detects flame, the D1 will be on.
 
-![](/media/05db06b3e205dfca63c2ba3aa7ff528e.png)
+![](./media/05db06b3e205dfca63c2ba3aa7ff528e.png)
 
 7)  Extension Practice:
 
 Next, connect an LED to pin 3 and we can control it by a flame sensor, as shown below;
 
-![](/media/b0fd48ba642ff3ae189cc27270a32a92.png)
+![](./media/b0fd48ba642ff3ae189cc27270a32a92.png)
 
 ```c++
 /*
@@ -1169,8 +807,8 @@ Next, connect an LED to pin 3 and we can control it by a flame sensor, as shown 
   flame sensor
   http://www.keyestudio.com
 */
-int flame = A0; //Define the flame pin as analog pin A0
-int LED = 3;    //Define the LED as digital port 3
+int flame = A1; //Define the flame pin as analog pin A1
+int LED = 9;    //Define the LED as digital port 9
 int val = 0;    //Define digital variables
 void setup() {
   pinMode(flame, INPUT);    //Define the buzzer as an input source
@@ -1195,7 +833,7 @@ void loop() {
 
 1. Description：
 
-![](/media/4afc1c9720d36beba8adfac0ee22ff10.png)
+![](./media/4afc1c9720d36beba8adfac0ee22ff10.png)
 
 This fan module uses a HR1124S motor-controlling chip, a single-channel H-bridge driver chip containing a low-conductivity resistance PMOS and NMOS power tubes. The low-conducting resistance can ease the power consumption, contributing to the safe work of the chip for longer time.
 
@@ -1209,7 +847,7 @@ Current: 200mA
 
 Maximum power: 2W
 
-Work temperature: -10 ° C to +50 degrees Celsius
+Work temperature: 0 ° C to +50 degrees Celsius
 
 Size: 47.6mm \* 23.8mm
 
@@ -1226,7 +864,7 @@ The fan module needs driving by large current; therefore, we install a battery h
 
 4. Connection Diagram：
 
-![](/media/197065ceb15f48177279ac66ce0d80be.png)
+![](./media/197065ceb15f48177279ac66ce0d80be.png)
 
 The pin GND, VCC, IN+ and IN- of the fan module are connected to pin G, V, 12 and 13 of the shield.
 
@@ -1269,7 +907,7 @@ Upload code, wire up components and plug in power. The small fan will turn antic
 
 We have understood the working principle of the flame sensor. Next, hook up a flame sensor in the circuit , as shown below. Then control the fan to blew out fire with the flame sensor.
 
-![](/media/85f638b1905aa1c8ee676412c4a4fb87.png)
+![](./media/85f638b1905aa1c8ee676412c4a4fb87.png)
 
 ```c++
 /*
@@ -1280,7 +918,7 @@ We have understood the working principle of the flame sensor. Next, hook up a fl
 */
 int INA = 12;
 int INB = 13;
-int flame = A0; //Define the flame pin as analog pin A0
+int flame = A1; //Define the flame pin as analog pin A1
 int val = 0;    //Define digital variables
 void setup() {
   pinMode(INA, OUTPUT);//Set digital port INA as output
@@ -1315,15 +953,15 @@ When the motor speed is constant, the potentiometer is driven to rotate through 
 
 The rotation angle of servo motor is controlled by regulating the duty cycle of PWM (Pulse-Width Modulation) signal. The standard cycle of PWM signal is 20ms (50Hz). Theoretically, the width is distributed between 1ms-2ms, but in fact, it's between 0.5ms-2.5ms. The width corresponds the rotation angle from 0° to 180°. But note that for different brand motors, the same signal may have different rotation angles. 
 
-![](/media/69be958142b773acdae33eeef12afed7.png)
+![](./media/69be958142b773acdae33eeef12afed7.png)
 
 In general, servo has three lines in brown, red and orange. The brown wire is grounded, the red one is a positive pole line and the orange one is a signal line.
 
-![](/media/49467dfa70799401a5a5acc691014aee.png)
+![](./media/49467dfa70799401a5a5acc691014aee.png)
 
 The angle of the servo:
 
-![](/media/ddc74f62dc936c925d28d70a1a9c2214.png)
+![](./media/ddc74f62dc936c925d28d70a1a9c2214.png)
 
 2)  Parameters：
 
@@ -1355,7 +993,7 @@ Standby current: 3 ± 1mA (DC 4.8V) 4 ± 1mA (DC 6V)
 
 4. Connection Diagram：
 
-![](/media/9aa3508d69cf0e26ea96f6975c64f2da.png)
+![](./media/9aa3508d69cf0e26ea96f6975c64f2da.png)
 
 Note: The brown, red and orange wire of the servo are respectively attached to Gnd(G), 5v(V) and 10 of the shield. Remember to connect an external power because of the high current of the servo. If not, the development board will be burnt out.
 
@@ -1452,7 +1090,7 @@ Note: The above written format is“servo variable name, specific statement（�
 
 (1) **Description：**
 
-![](/media/0180b169a1c3b228394b43df704fac32.png)
+![](./media/0180b169a1c3b228394b43df704fac32.png)
 
 The HC-SR04 ultrasonic sensor uses sonar to determine distance to an object like what bats do. It offers excellent non-contact range detection with high accuracy and stable readings in an easy-to-use package. It comes complete with ultrasonic transmitter and receiver modules.
 
@@ -1507,7 +1145,7 @@ Circuit diagram of ultrasonic sensor:
 
 (5) **Connection Diagram：**
 
-![](/media/a5bdd6bb9bbe9db82c93e9193cbac4cd.png)
+![](./media/a5bdd6bb9bbe9db82c93e9193cbac4cd.png)
 
 Note: The pin VCC, Trig, Echo and Gnd of the ultrasonic sensor are respectively connected to 5v(V), 12(S), 13(S) and Gnd(G) of the shield
 
@@ -1580,9 +1218,9 @@ We need to divide the traveltime by 2 because we have to take into account that 
 
 (9) **Extension Practice:**
 
-We have just measured the distance displayed by the ultrasonic. How about controlling the LED with the measured distance? Let's try it and connect an LED light module to the D3 pin.
+We have just measured the distance displayed by the ultrasonic. How about controlling the LED with the measured distance? Let's try it and connect an LED light module to the D9 pin.
 
-![](/media/21d1810a3bf0827d6097188051f61867.png)
+![](./media/21d1810a3bf0827d6097188051f61867.png)
 
 ```c++
 /*
@@ -1593,7 +1231,7 @@ We have just measured the distance displayed by the ultrasonic. How about contro
 */
 int trigPin = 12;    // Pin Trig attach to 12
 int echoPin = 13;    // Pin Echo attach to 13
-int LED = 3;
+int LED = 9;
 long duration, cm, inches;
 void setup() {
   //enable the serial port
@@ -1677,9 +1315,9 @@ Receiving Distance: 10m
 
 4. Connection Diagram：
 
-![](/media/13872c10e2dc6889da0b4203785bd67a.png)
+![](./media/13872c10e2dc6889da0b4203785bd67a.png)
 
-Note: the pin “-”,“+”and S of the IR receiver are respectively connected to pin G（GND）, V（VCC）and A2 of the sensor expansion board. On the condition that digital ports are not enough, the analog ports also can be served as digital ports. A0 is equal to the digital port 14, A1 means the digital port15.
+Note: the pin “-”,“+”and S of the IR receiver are respectively connected to pin G（GND）, V（VCC）and D3of the sensor expansion board. On the condition that digital ports are not enough, the analog ports also can be served as digital ports. A0 is equal to the digital port 14, A1 means the digital port15.
 
 5)  Test Code：
 
@@ -1693,7 +1331,7 @@ Note: the pin “-”,“+”and S of the IR receiver are respectively connected
   http://www.keyestudio.com
 */
 #include <IRremote.h>     //IRremote library statement
-int RECV_PIN = A2;        //define the pin of IR receiver as A2
+int RECV_PIN = 3;        //define the pin of IR receiver as D3
 IRrecv irrecv(RECV_PIN);
 decode_results results;   //decoding results are saved in the result
 void setup() {
@@ -1732,7 +1370,7 @@ We decoded the key value of IR remote control. How about controlling LED by the 
 
 Attach an LED to D3, then press the keys of remote control to make LED light on and off.
 
-![](/media/b45e9c7113751b5ab953ff7e0b0750df.png)
+![](./media/b45e9c7113751b5ab953ff7e0b0750df.png)
 
 ```c++
 /*
@@ -1742,8 +1380,8 @@ Attach an LED to D3, then press the keys of remote control to make LED light on 
   http://www.keyestudio.com
 */
 #include <IRremote.h>     //IRremote library statement
-int RECV_PIN = A2;        //define the pin of the IR receiver as A2
-int LED = 3;
+int RECV_PIN = 3;        //define the pin of the IR receiver as D3
+int LED = 9;
 bool flag = 0;
 IRrecv irrecv(RECV_PIN);
 decode_results results;   //
@@ -1809,7 +1447,7 @@ HM-10,a 4.0 Bluetooth module, can serves as a platform for wireless data communi
 
 13\. Power supply: 5V DC
 
-14\. Working temperature: –5 \~ +65 Centigrade
+14\. Working temperature: 0 \~ +50 Centigrade
 
 **3.Components Needed:**
 
@@ -1835,7 +1473,7 @@ HM-10,a 4.0 Bluetooth module, can serves as a platform for wireless data communi
 
 (Note: here the Bluetooth is directly linked with the V2 shield and please pay attention to the direction)
 
-![](/media/5fad63a7f6b9cacc9fcf71cbf83c58f3.png)
+![](./media/5fad63a7f6b9cacc9fcf71cbf83c58f3.png)
 
 **5.Test Code**
 
@@ -1929,9 +1567,9 @@ Go to [Google Play](https:/developer.android.google.cn/distribute?hl=zh-cn)→se
 
 **8.Expansion Project**
 
-In the above project, we have explained that the Bluetooth receives the signal sent by the mobile phone and displayed it on the serial port of the development board. Now let’s think about a question that can we use the received signal to do something else? The answer is positive. Here we plans to use the command sent by the mobile phone to turn on or off an LED. From the wiring diagram, we can find that an LED is connected to pin D3.
+In the above project, we have explained that the Bluetooth receives the signal sent by the mobile phone and displayed it on the serial port of the development board. Now let’s think about a question that can we use the received signal to do something else? The answer is positive. Here we plans to use the command sent by the mobile phone to turn on or off an LED. From the wiring diagram, we can find that an LED is connected to pin D9.
 
-![](/media/46adc3fdd061772e09a977db42b7e5d8.png)
+![](./media/46adc3fdd061772e09a977db42b7e5d8.png)
 
 ```c++
 /*
@@ -1940,7 +1578,7 @@ In the above project, we have explained that the Bluetooth receives the signal s
   Bluetooth
   http://www.keyestudio.com
 */
-int LED = 3;
+int LED = 9;
 int ble_val; //Integer variable(used to store the value received by Bluetooth)
 
 void setup() {
@@ -1989,7 +1627,7 @@ The expansion board can be connected to 4 DC motors. In the default jumper cap c
 
 **(2)Circuit**
 
-![](/media/6c3731f639e113c8f32fe1829f239898.png)
+![](./media/6c3731f639e113c8f32fe1829f239898.png)
 
  **(3)Parameters**：
 
@@ -2009,7 +1647,7 @@ The expansion board can be connected to 4 DC motors. In the default jumper cap c
     
     Low level: 0V ≤ Vin ≤ 1.5V
 
-  - Working temperature: -25℃～＋130℃
+  - Working temperature: 0℃～＋50℃
     
 
 **(4)Drive the robot to move**    
@@ -2018,7 +1656,7 @@ From the circuit above, it is known that for motor A D4 is its direction pin and
 
 According to the table below, we can know how to control the movement of the robot by controlling the rotation of two motors through the digital ports and PWM ports . Among them, the range of PWM value is 0-255. The larger the value is, the faster the motor rotates.
 
-| Movements    | D4   | D5（PWM） | Motor（on the left） | D2   | D9（PWM） | Motor（on the right） |
+| Movements    | D4   | D5（PWM） | Motor（on the left） | D2   | D6（PWM） | Motor（on the right） |
 | ------------ | ---- | --------- | -------------------- | ---- | --------- | --------------------- |
 | Move Forward | LOW  | 200       | Rotate Clockwise     | LOW  | 200       | Rotate Clockwise      |
 | Go Back      | HIGH | 200       | Rotate Anticlockwise | HIGH | 200       | Rotate Anticlockwise  |
@@ -2034,7 +1672,7 @@ According to the table below, we can know how to control the movement of the rob
 
 **(6)Connection Diagram:**
 
-![](/media/240537c0722089b5846b312dd9708ff9.png)
+![](./media/240537c0722089b5846b312dd9708ff9.png)
 
 Note:
 
@@ -2052,7 +1690,7 @@ There is a silk screen 1234 on the front of the 4pin connector. One of the two m
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9  //Define the PWM control pin of the right motor
+#define MR_PWM 6  //Define the PWM control pin of the right motor
 
 void setup()
 {
@@ -2121,7 +1759,7 @@ The speed adjustment of the motor is realized by PWM, and the pin that controls 
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9  //Define the PWM control pin of the right motor
+#define MR_PWM 6  //Define the PWM control pin of the right motor
 void setup() {
   pinMode(ML_Ctrl, OUTPUT);//Define the direction control pin of the left motor as output
   pinMode(ML_PWM, OUTPUT);//Define the PWM control pin of the left motor as output
@@ -2182,7 +1820,7 @@ The 8\*16 LED board comes with 128 LEDs. The data of the microprocessor(Arduino)
 
   - Drive current: 200mA
 
-  - Working temperature: -40\~80℃
+  - Working temperature: 0\~50℃
 
   - Communication mode: two-wire bus
     
@@ -2525,9 +2163,9 @@ The specific logic of the light-following smart car is shown as below.
 
 ![](/media/210342dc6ecc994c26f2a1bca0df58b1.png)
 
-Note: The "-", "+" and S pins of the photoresistor module on the left are connected to G (GND), V (VCC), A0 respectively;
+Note: The "-", "+" and S pins of the photoresistor module on the left are connected to G (GND), V (VCC), A1 respectively;
 
-the "-", "+" and S pins of the photoresistor module on the right are connected to the G (GND), V (VCC), and A1 respectively.
+the "-", "+" and S pins of the photoresistor module on the right are connected to the G (GND), V (VCC), and A2 respectively.
 
 There is a silk screen 1234 on the front of the 4pin cable. The red wire of the rear right motor is connected to 1, the black wire is connected to 2, the black wire of the front left motor is connected to 4, and the red wire is connected to 3.
 
@@ -2540,12 +2178,12 @@ There is a silk screen 1234 on the front of the 4pin cable. The red wire of the 
   light follow tank
   http://www.keyestudio.com
 */
-#define light_L_Pin A0   //Define the pin of the photosensitive sensor on the left
-#define light_R_Pin A1   //Define the pin of the photosensitive sensor on the right
+#define light_L_Pin A1   //Define the pin of the photosensitive sensor on the left
+#define light_R_Pin A2   //Define the pin of the photosensitive sensor on the right
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9   //Define the PWM control pin of the right motor
+#define MR_PWM 6   //Define the PWM control pin of the right motor
 int left_light;
 int right_light;
 void setup() {
@@ -2638,7 +2276,7 @@ The specific logic of the ultrasonic sound- following smart car is shown in the 
 
 **(3)Connection Diagram:**
 
-![](/media/19d05faf06476538560c7cc0b18623b5.png)
+![](./media/19d05faf06476538560c7cc0b18623b5.png)
 
 **(4)Test Code**
 
@@ -2654,7 +2292,7 @@ The specific logic of the ultrasonic sound- following smart car is shown in the 
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9   //Define the PWM control pin of the right motor
+#define MR_PWM 6   //Define the PWM control pin of the right motor
 #define Trig 12
 #define Echo 13
 float distance;
@@ -2781,7 +2419,7 @@ The specific logic of the ultrasonic obstacle avoidance smart car is shown in th
 
 
 
-![](/media/2ba32b8e2038fbc344fea3c24c0105a3.png)
+![](./media/19d05faf06476538560c7cc0b18623b5.png)
 
 (Note: the “-”, “+” and S pins of the servo are respectively connected to G (GND), V (VCC) and D10 of the expansion board；and for the ultrasonic sensor,the VCC pin is connected to the 5v (V) ,the Trig pin to digital 12 (S), the Echo pin to digital 13 (S), and the Gnd pin to Gnd (G); the same as last project.）
 
@@ -2799,7 +2437,7 @@ int a, a1, a2;
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9   //Define the PWM control pin of the right motor
+#define MR_PWM 6   //Define the PWM control pin of the right motor
 #define Trig 12
 #define Echo 13
 float distance;
@@ -2935,7 +2573,7 @@ The specific logic of tracking is as follows:
 
 **(3)Connection Diagram:**
 
-![](/media/aca72dc201de41ce9edd42c30ea4628d.png)
+![](./media/aca72dc201de41ce9edd42c30ea4628d.png)
 
 **(4)Test Code**
 
@@ -2948,7 +2586,8 @@ The specific logic of tracking is as follows:
 */
 
 //The wiring of line tracking sensor
-#define L_pin  6  //On the left#define M_pin  7  //In the middle
+#define L_pin  11  //On the left
+#define M_pin  7  //In the middle
 #define R_pin  8  //On the right
 
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
@@ -3054,7 +2693,7 @@ The specific logic of the line-tracking smart car is shown in the table blow:
 
 
 
-![](/media/aca72dc201de41ce9edd42c30ea4628d.png)
+![](./media/aca72dc201de41ce9edd42c30ea4628d.png)
 
 Note: it is the same as last project.
 
@@ -3069,14 +2708,14 @@ Note: it is the same as last project.
 */
 
 //The wiring of line tracking sensor
-#define L_pin  6  //On the left
+#define L_pin  11  //On the left
 #define M_pin  7  //In the middle
 #define R_pin  8  //On the right
 
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9   //Define the PWM control pin of the right motor
+#define MR_PWM 6   //Define the PWM control pin of the right motor
 int L_val, M_val, R_val;
 
 void setup()
@@ -3186,12 +2825,12 @@ The specific logic of the line-tracking smart car is shown in the table blow:
 
 **(3)Connection Diagram:**
 
-![](/media/3b350609c229a4d0da2489a2ea2614da.png)
+![](./media/3b350609c229a4d0da2489a2ea2614d.png)
 
 Note: the GND, VCC, SDA, and SCL of the 8x16 LED dot matrix are respectively connected to-(GND), + (VCC), SDA, SCL on the expansion board of V5 ;
 
-The "-", "+" and S pins of the infrared receiving sensor are respectively connected to the G (GND), V (VCC), A0 of the expansion
-board with wires. When the digital port is not enough, the analog port can be used as a digital port, and analog port A0 is equivalent to digital port 14, A1 is equivalent to digital port 15, and so on.
+The "-", "+" and S pins of the infrared receiving sensor are respectively connected to the G (GND), V (VCC), A1 of the expansion
+board with wires. When the digital port is not enough, the analog port can be used as a digital port, and analog port A1 is equivalent to digital port 15, A2 is equivalent to digital port 16, and so on.
 
 **(4)Test Code**
 
@@ -3209,10 +2848,10 @@ board with wires. When the digital port is not enough, the analog port can be us
   http://www.keyestudio.com
 */
 
-int flame_L = A0; //Define the flame interface on the left as the analog pin A0
-int flame_R = A1; //Define the flame interface on the right as the analog pin A1
+int flame_L = A1; //Define the flame interface on the left as the analog pin A1
+int flame_R = A2; //Define the flame interface on the right as the analog pin A2
 //The wiring of line tracking sensor
-#define L_pin  6  //On the left
+#define L_pin  11  //On the left
 #define M_pin  7  //In the middle
 #define R_pin  8  //On the right
 //The pin of the servo 130
@@ -3221,7 +2860,7 @@ int INB = 13;
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9   //Define the PWM control pin of the right motor
+#define MR_PWM 6   //Define the PWM control pin of the right motor
 int L_val, M_val, R_val, flame_valL, flame_valR;
 
 void setup()
@@ -3350,7 +2989,7 @@ After uploading the test code successfully and powering it up, the smart car put
 
 ## **Project 19: IR Remote Control Tank**
 
-![](/media/fe3319362c94d0bcf196e86b0de2b885.jpeg)
+![](./media/fe3319362c94d0bcf196e86b0de2b885.jpeg)
 
 **(1)Description:**
 
@@ -3370,7 +3009,7 @@ The specific logic of the line-tracking smart car is shown in the table blow:
 
 **(3)Connection Diagram:**
 
-![](/media/ee3f7a1cef270470f925c136d9e4e630.png)
+![](./media/ee3f7a1cef270470f925c136d9e4e630.png)
 
 Note: The GND, VCC, SDA, and SCL of the 8x16 LED dot matrix are respectively connected to-(GND), + (VCC), SDA, SCL on the sensor expansion board of V5.
 
@@ -3386,7 +3025,7 @@ The pins "-", "+" and S of the infrared receiving sensor module are respectively
   http://www.keyestudio.com
 */
 #include <IRremote.h>
-IRrecv irrecv(A2);  //
+IRrecv irrecv(3);  //
 decode_results results;
 long ir_rec;  //Used to store the received infrared values
 
@@ -3404,7 +3043,7 @@ unsigned char clear[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9    //Define the PWM control pin of the right motor
+#define MR_PWM 6    //Define the PWM control pin of the right motor
 
 void setup() {
   Serial.begin(9600);
@@ -3567,7 +3206,7 @@ After uploading the test code successfully and powering it up, the smart car can
 
 ## **Project 20: Bluetooth Control Tank**
 
-![](/media/8472e049f0ac03340b68b64e7593d9a1.jpeg)
+![](./media/8472e049f0ac03340b68b64e7593d9a1.jpeg)
 
 **1.Description:**
 
@@ -3585,21 +3224,21 @@ In order to better control the intelligent tank robot, we specially made an APP.
 
 Open App Store→search for KeyesRobot→download it to your phone.
 
-![](/media/38b61289e05c2e37ee7e10890303f130.png)
+![](./media/38b61289e05c2e37ee7e10890303f130.png)
 
 Open the APP Motorhome →the following page pops up→select Tank Robot.
 
-![](/media/31879907eebdbcf596766e1f87506189.png)
+![](./media/31879907eebdbcf596766e1f87506189.png)
 
 Turn on the Bluetooth on mobile phone → click the Bluetooth button in the upper right corner of this APP →search and pair them.
 
 (Note: we need to turn on the location permission when we pair Bluetooth.)
 
-![](/media/a368e3381590429b53bc7a17fbff6464.png)
+![](./media/a368e3381590429b53bc7a17fbff6464.png)
 
 Select TANK ROBOT and the following page appears:
 
-![](/media/2a9b5222a3dd4ec16e2f479d00b82b24.png)
+![](./media/2a9b5222a3dd4ec16e2f479d00b82b24.png)
 
 The usage of this App is almost the same for Apple system and Android system. And here we intend to take Android system as an example to explain how to use it properly.
 
@@ -3609,15 +3248,15 @@ Search KeyesRobot in Google Play or click following link:
 
 https:/play.google.com/store/apps/details?id=com.keyestudio.keyestudio
 
-![](/media/ec232996a18b4cad2a22379fc795f0ee.png)
+![](./media/ec232996a18b4cad2a22379fc795f0ee.png)
 
 Click Sign in to download the APP
 
-![](/media/2ecba5bc20bf85129a394d2b9b99321a.png)
+![](./media/2ecba5bc20bf85129a394d2b9b99321a.png)
 
 The following icon implies a successful installation.
 
-![](/media/1e01c31ab01988cbcd9bd52554d8bc3b.png)
+![](./media/1e01c31ab01988cbcd9bd52554d8bc3b.png)
 
 Click the icon to enter the APP and choose TANK ROBOT;
 
@@ -3625,23 +3264,23 @@ Enable "location and Bluetooth" permission, then connect and pair Bluetooth;
 
 Scan for Bluetooth devices and the name of Bluetooth BLE 4.0 is HMSoft which does not have a pairing password.
 
-![](/media/31879907eebdbcf596766e1f87506189.png)
+![](./media/31879907eebdbcf596766e1f87506189.png)
 
 After uploading the test code successfully, powering it up and connecting it with Bluetooth, the LED on the Bluetooth module flashed;
 
-Click icon ![](/media/a368e3381590429b53bc7a17fbff6464.png) and search for Bluetooth as shown below.
+Click icon ![](./media/a368e3381590429b53bc7a17fbff6464.png) and search for Bluetooth as shown below.
 
-![](/media/a32f0b37bea6bc13a2f785c6aeb35d22.png)
+![](./media/a32f0b37bea6bc13a2f785c6aeb35d22.png)
 
 Click connect and the pairing is done and the LED remains on.
 
-![](/media/afdedea4a9a7235766e67c22744d725f.png)
+![](./media/afdedea4a9a7235766e67c22744d725f.png)
 
 Connect the Bluetooth module and open the serial monitor to set the baud rate to 9600;
 
 Press the button of the Bluetooth APP, and the corresponding characters are displayed in the serial monitor as shown in the picture below:
 
-![](/media/6886bcc40850b08182b6970bdafd1ed0.png)
+![](./media/6886bcc40850b08182b6970bdafd1ed0.png)
 
 **3. Test Code 1**
 
@@ -3675,230 +3314,44 @@ Then reconnect the Bluetooth module and open the serial monitor to set the baud 
 
 Press the button of the Bluetooth APP, and the corresponding characters are displayed in the serial monitor as shown in the picture below: 
 
-![](/media/805f8ee5c8998a5d6cb8bcef9da09186.png)
+![](./media/805f8ee5c8998a5d6cb8bcef9da09186.png)
 
 The following table illustrates the functions of corresponding keys:
 
-<table>
-<tbody>
-<tr class="odd">
-<td>Keys</td>
-<td>Functions</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>
+| Number | Keyes | Functions |  |
+| :----: | :--------: | :-------: | ------ |
+|   1    | ![button](media/1118dccd714c7988a51cf2dde58627e3.png) | Pair and connect HM-10 Bluetooth module;click again to disconnect |  |
+|  2   | ![select](media/b23e65f788685576275cc16bf0b679cc.png) |     select the robot to operate     |          |
+|  3   | ![Button](media/8d910d19cec4d03b5d9cb787425d8d7c.png) |     to control the movements of the robot by buttons     |          |
+| 4 | ![joystick](media/9c0c7230244e08fc5afa28b18e8b4241.png) | To control the movements of the robot by joystick |  |
+| 5 | ![Gravity](media/3ab61154b4ae730a3757f40171846825.png) | To control the movements of the robot by gravity |  |
+| 6 | ![UP](media/fe15b0e4a7e705027cb042d0fd2398ea.png) | The car moves forward when it is pressed and stops when released | Send “F”when pressed and “S”when released |
+| 7 | ![Left](media/b1765938932b8633bd5a96af0293ef24.png) | The car turns left when it is pressed tight and stops when released | Send “L”when pressed and “S”when released |
+| 8 | ![Right](media/67f26bd7d2076922470e8805711f2ef9.png) | The car turns right when it is pressed tight and stops when released | Send “R”when pressed and “S”when released |
+| 9 | ![Down](media/77615a8ca984e538d58e02ac90bc5382.png) | The car turns back when it is pressed tight and stops when released | Send “B”when pressed and “S”when released |
+| 10 | ![](media/f58421773a56c911b09c150d08b0fd67.png) | Drag to change the speed of the left motor | Send “u”+digit+“#”when dragged |
+| 11 | ![](media/a05432839507dd25b7dc7eb1bb9a02bb.png) | Drag to change the speed of the right motor | Send “v”+digit+“#”when dragged |
+| 12 | ![](media/5dd730ab4d2299210dc2399303b94e33.png) | Select to enter Function page |  |
+| 13 | ![](media/a352ca9be952db2838540657b9a70f8c.png) | Enter obstacle avoidance mode when pressed and exit when pressed again | Send “G”when pressed and “S”when pressed again |
+| 14 | ![](media/64da14a6ca501aa97f8eb8895e9f6b1c.png) | Enter following mode when pressed and exit when pressed again | Send “h”when pressed and “S”when pressed again |
+| 15 | ![](media/e4f3b211f8c8b06d1eab9dd2281dff74.png) | Enter line-tracking mode when pressed and exit when pressed again | Send “e”when pressed and “S”when pressed again |
+| 16 | ![](media/3d662f37603a8f0c1c34ab2b9ff28c63.png) | Enter move-in-confined-space mode when pressed and exit when pressed again | Send “f”when pressed and “S”when pressed again |
+| 17 | ![](media/48ab7c8c488c61abc162dbda0fc75f27.png) | Enter light following mode when pressed and exit when pressed again | Send “i”when pressed and “S”when pressed again |
+| 18 | ![](media/4250a152c647cc59f72bf51328943371.png) | Enter fire extinguishing mode when pressed and exit when pressed again | Send “j”when pressed and “S”when pressed again |
+| 19 | ![](media/cc420ba3d148bd6b720dd44df9a82768.png) | Select to enter facial expression display mode |  |
+| 20 | ![](media/17261f134c25702ae129624860ab8fe1.png) | Show smiling pattern when clicked and clear expression when clicked again | Send “k”when pressed and “z”when pressed again |
+| 21 | ![](media/a8bff045e822a06a24bfd7599c9f142a.png) | Show disgusting pattern when clicked and clear expression when clicked again | Send “l”when pressed and “z”when pressed again |
+| 22 | ![](media/8729f3ac4adf446b388221ae2e4cf71f.png) | Show happy face when clicked and clear expression when clicked again | Send “m”when pressed and “z”when pressed again |
+| 23 | ![](media/63d935cd1958863f862374ded9b87d6b.png) | Show sad pattern when clicked and clear expression when clicked again | Send “n”when pressed and “z”when pressed again |
+| 24 | ![](media/5e84087020b919a85495831b231efa5a.png) | Show disparaging pattern when clicked and clear expression when clicked again | Send “o”when pressed and “z”when pressed again |
+| 25 | ![](media/3b7d99862c2d9a5e7337645b4548091e.png) | Show heart-shaped pattern when clicked and clear expression when clicked again | Send “p”when pressed and “z”when pressed again |
+| 26 | ![](media/41bf8b28dea6061cea89b640f5646403.png) | Choose to enter the custom function interface; there are six keys 1,2,3,4,5,6; with these keys, you can expand some functions by yourself |  |
+| 27 | ![](media/06b8f32aae6c9914ef227d6966ea537f.png) | Click to display the analog value detected by the photoresistor on the left | Click to send “w” |
+| 28 | ![](media/a89df3c223e6a7d4eac29d4fe2ee14af.png) | Click to display the analog value detected by the photoresistor on the right | Click to send“y” |
+| 29 | ![](media/a76df707b84409e57a1167889c3510d9.png) | Click to show the distance detected by ultrasonic sensor (unit: cm) | Click to send“x” |
+| 30 | ![](./media/704e5c6a72d89ee8f78d79ff3cd9537c.png) | Press to turn on the fan and press again to turn off it | Click to send“c”   ; Click again to send“d” |
 
-![](media/1118dccd714c7988a51cf2dde58627e3.png)</td>
-<td>Pair and connect HM-10 Bluetooth module;click again to disconnect</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>
 
-![](media/b23e65f788685576275cc16bf0b679cc.png)</td>
-<td>select the robot to operate</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/8d910d19cec4d03b5d9cb787425d8d7c.png)</td>
-<td>to control the movements of the robot by buttons</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/9c0c7230244e08fc5afa28b18e8b4241.png)</td>
-<td>To control the movements of the robot by joystick</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/3ab61154b4ae730a3757f40171846825.png)</td>
-<td>To control the movements of the robot by gravity</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/fe15b0e4a7e705027cb042d0fd2398ea.png)</td>
-<td>Send “F”when pressed and “S”when released</td>
-<td>The car moves forward when it is pressed and stops when released</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/b1765938932b8633bd5a96af0293ef24.png)</td>
-<td>Send “L”when pressed and “S”when released</td>
-<td>The car turns left when it is pressed tight and stops when released</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/67f26bd7d2076922470e8805711f2ef9.png)</td>
-<td>Send “R”when pressed and “S”when released</td>
-<td>The car turns right when it is pressed tight and stops when released</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/77615a8ca984e538d58e02ac90bc5382.png)</td>
-<td>Send “B”when pressed and “S”when released</td>
-<td>The car turns back when it is pressed tight and stops when released</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/f58421773a56c911b09c150d08b0fd67.png)</td>
-<td>Send “u”+digit+“#”when dragged</td>
-<td>Drag to change the speed of the left motor</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/a05432839507dd25b7dc7eb1bb9a02bb.png)</td>
-<td>Send “v”+digit+“#”when dragged</td>
-<td>Drag to change the speed of the right motor</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/5dd730ab4d2299210dc2399303b94e33.png)</td>
-<td>Select to enter Function page</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/a352ca9be952db2838540657b9a70f8c.png)</td>
-<td>Send “G”when pressed and “S”when pressed again</td>
-<td>Enter obstacle avoidance mode when pressed and exit when pressed again</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/64da14a6ca501aa97f8eb8895e9f6b1c.png)</td>
-<td>Send “h”when pressed and “S”when pressed again</td>
-<td>Enter following mode when pressed and exit when pressed again</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/e4f3b211f8c8b06d1eab9dd2281dff74.png)</td>
-<td>Send “e”when pressed and “S”when pressed again</td>
-<td>Enter line-tracking mode when pressed and exit when pressed again</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/3d662f37603a8f0c1c34ab2b9ff28c63.png)</td>
-<td>Send “f”when pressed and “S”when pressed again</td>
-<td>Enter move-in-confined-space mode when pressed and exit when pressed again</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/48ab7c8c488c61abc162dbda0fc75f27.png)</td>
-<td>Send “i”when pressed and “S”when pressed again</td>
-<td>Enter light following mode when pressed and exit when pressed again</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/4250a152c647cc59f72bf51328943371.png)</td>
-<td>Send “j”when pressed and “S”when pressed again</td>
-<td>Enter fire extinguishing mode when pressed and exit when pressed again</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/cc420ba3d148bd6b720dd44df9a82768.png)</td>
-<td>Select to enter facial expression display mode</td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/17261f134c25702ae129624860ab8fe1.png)</td>
-<td>Send “k”when pressed and “z”when pressed again</td>
-<td>Show smiling pattern when clicked and clear expression when clicked again</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/a8bff045e822a06a24bfd7599c9f142a.png)</td>
-<td>Send “l”when pressed and “z”when pressed again</td>
-<td>Show disgusting pattern when clicked and clear expression when clicked again</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/8729f3ac4adf446b388221ae2e4cf71f.png)</td>
-<td>Send “m”when pressed and “z”when pressed again</td>
-<td>Show happy face when clicked and clear expression when clicked again</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/63d935cd1958863f862374ded9b87d6b.png)</td>
-<td>Send “n”when pressed and “z”when pressed again</td>
-<td>Show sad pattern when clicked and clear expression when clicked again</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/5e84087020b919a85495831b231efa5a.png)</td>
-<td>Send “o”when pressed and “z”when pressed again</td>
-<td>Show disparaging pattern when clicked and clear expression when clicked again</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/3b7d99862c2d9a5e7337645b4548091e.png)</td>
-<td>Send “p”when pressed and “z”when pressed again</td>
-<td>Show heart-shaped pattern when clicked and clear expression when clicked again</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/41bf8b28dea6061cea89b640f5646403.png)</td>
-<td>Choose to enter the custom function interface; there are six keys 1,2,3,4,5,6; with these keys, you can expand some functions by yourself</td>
-<td></td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/06b8f32aae6c9914ef227d6966ea537f.png)</td>
-<td>Click to send “w”</td>
-<td>Click to display the analog value detected by the photoresistor on the left</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/a89df3c223e6a7d4eac29d4fe2ee14af.png)</td>
-<td>Click to send“y”</td>
-<td>Click to display the analog value detected by the photoresistor on the right</td>
-</tr>
-<tr class="even">
-<td>
-
-![](media/a76df707b84409e57a1167889c3510d9.png)</td>
-<td>Click to send“x”</td>
-<td>Click to show the distance detected by ultrasonic sensor (unit: cm)</td>
-</tr>
-<tr class="odd">
-<td>
-
-![](media/704e5c6a72d89ee8f78d79ff3cd9537c.png)</td>
-<td><p>Click to send“c”</p>
-<p>Click again to send“d”</p></td>
-<td>Press to turn on the fan and press again to turn off it</td>
-</tr>
-</tbody>
-</table>
 **(4)Flow chart**
 
 ![img](media/wps8.png)
@@ -3939,7 +3392,7 @@ unsigned char clear[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9   //Define the PWM control pin of the right motor
+#define MR_PWM 6   //Define the PWM control pin of the right motor
 char ble_val;      //Used to store the value obtained by Bluetooth
 void setup() {
   Serial.begin(9600);
@@ -4136,7 +3589,7 @@ unsigned char speed_d[] = {0x00, 0x00, 0x00, 0x04, 0x08, 0x10, 0x20, 0x40, 0xff,
 #define ML_Ctrl 4  //define the direction control pin of the left motor
 #define ML_PWM 5   //define the PWM control pins of the left motor
 #define MR_Ctrl 2  //define the direction control pin of the right motor
-#define MR_PWM 9   //define the PWM control pin of the right motor
+#define MR_PWM 6   //define the PWM control pin of the right motor
 char ble_val;      //used to save the value from Bluetooth
 byte speeds = 200;;//the initial speed is 200
 
@@ -4346,7 +3799,7 @@ The smart car has performed a single function in every previous project. Can it 
 
 **(3)Connection Diagram:**
 
-![](/media/0a9d69986c4f47a6c681541348d565a0.png)
+![](./media/0a9d69986c4f47a6c681541348d565a0.png)
 
 Please carefully check the wiring.When we want to show the fire extinguishing function of this car, we need to detach the ultrasonic sensor, servo, and photosensitive from it, and replace them with the fan module and flame sensor;
 
@@ -4360,9 +3813,9 @@ Please carefully check the wiring.When we want to show the fire extinguishing fu
 
 5. The "-", "+" and S pins of the infrared receiving sensor module are respectively connected to the sensor expansion board G (GND), V (VCC), A2 with wires;
 
-6. The pins "-" "+" and S of the left photoresistor (flame sensor) module are respectively connected to the G (GND), V (VCC), A0 of the expansion board and for the right photoresistor (flame sensor) module they are connected to G (GND), V (VCC), A1.
+6. The pins "-" "+" and S of the left photoresistor (flame sensor) module are respectively connected to the G (GND), V (VCC), A1 of the expansion board and for the right photoresistor (flame sensor) module they are connected to G (GND), V (VCC), A1.
 
-7. Line-tracking sensor is connected to digital pins 6,7 and 8.
+7. Line-tracking sensor is connected to digital pins 11,7 and 8.
 
    
 
@@ -4410,13 +3863,13 @@ byte speeds_L = 200; //the initial speed of the left motor is 200
 byte speeds_R = 200; // the initial speed of the right motor is 200
 String speeds_l, speeds_r; //receive PWM characters and convert them into PWM value
 
-//#define light_L_Pin A2   //define the pin of the left photoresistor
-//#define light_R_Pin A1   //define the pin of the right photoresistor
+//#define light_L_Pin A1   //define the pin of the left photoresistor
+//#define light_R_Pin A2   //define the pin of the right photoresistor
 int left_light;
 int right_light;
 
-int flame_L = A2; //define the analog port of the left flame sensor to A2
-int flame_R = A1; //define the analog port of the right flame sensor to A1
+int flame_L = A1; //define the analog port of the left flame sensor to A1
+int flame_R = A2; //define the analog port of the right flame sensor to A2
 
 //wire up the line tracking sensor
 #define L_pin  11  //left
@@ -4439,7 +3892,7 @@ int a2;
 
 #define servoPin 10  //servo Pin
 
-bool flag;  // flage invarible, used to enter and exit a mode
+bool flag;  // flag invariable used to enter and exit a mode
 void setup() {
   Serial.begin(9600);
   irrecv.enableIRIn();  //Initialize the library of the IR remote
@@ -4542,7 +3995,7 @@ void loop() {
     Serial.println(ir_rec, HEX);
     switch (ir_rec) {
       case 0xFF629D: Car_front();   break;   //the command to go front
-      case 0xFFA857: Car_back();    break;   //the command  to go back
+      case 0xFFA857: Car_back();    break;   //the command to go back
       case 0xFF22DD: Car_left();    break;   //the command to rotate to left
       case 0xFFC23D: Car_right();   break;   //the command to rotate to right
       case 0xFF02FD: Car_Stop();    break;   //the command to stop
@@ -4852,7 +4305,7 @@ void IIC_start()
 //transmit data
 void IIC_send(unsigned char send_data)
 {
-  for (byte mask = 0x01; mask != 0; mask <<= 1) //ecah character has 8 digits, which is detected one by one
+  for (byte mask = 0x01; mask != 0; mask <<= 1) //each character has 8 digits, which is detected one by one
   {
     if (send_data & mask) { //set high or low levels in light of each bit(0 or 1)
       digitalWrite(SDA_Pin, HIGH);
@@ -4931,7 +4384,6 @@ We can realize the corresponding functions by pressing the corresponding keys to
 However, we use pins to fix sensors and modules, which makes the detachment and assembly very simple. No need worry about it. But we need to block the unused code for some modules using the same IO port. The fan module and the flame sensor module in the above code have been blocked.
 
 All the projects have been completed. Hope you’d obtain some fresh knowledge. If you encounter any problem involves this kit, please feel free to contact our customer service professionals who will help you timely.
-
 
 
 

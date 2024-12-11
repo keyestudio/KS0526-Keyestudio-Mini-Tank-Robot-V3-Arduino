@@ -5,8 +5,8 @@
   http://www.keyestudio.com
 */
 #include <IRremote.h>     //IRremote library statement
-int RECV_PIN = A2;        //define the pin of the IR receiver as A2
-int LED = 3;
+int RECV_PIN = 3;        //define the pin of the IR receiver as D3
+int LED = 9;
 bool flag = 0;
 IRrecv irrecv(RECV_PIN);
 decode_results results;   //

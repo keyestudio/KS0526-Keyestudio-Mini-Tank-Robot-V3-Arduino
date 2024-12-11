@@ -4,8 +4,8 @@
   photocell-analog output
   http://www.keyestudio.com
 */
-int analogInPin = A0;    // A1 is the input pin of photoresistor
-int analogOutPin = 3; // Digital port 3 is the output of PMW
+int analogInPin = A1;    // A1 is the input pin of photoresistor
+int analogOutPin = 9; // Digital port 9 is the output of PMW
 int sensorValue = 0;  // 存放光敏电阻的值的变量
 int outputValue = 0;  // Value output to PMW
 void setup() {

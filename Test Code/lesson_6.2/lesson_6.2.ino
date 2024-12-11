@@ -6,7 +6,7 @@
 */
 int INA = 12;
 int INB = 13;
-int flame = A0; //Define the flame pin as analog pin A0
+int flame = A1; //Define the flame pin as analog pin A1
 int val = 0;    //Define digital variables
 void setup() {
   pinMode(INA, OUTPUT);//Set digital port INA as output

@@ -5,10 +5,10 @@
   http://www.keyestudio.com
 */
 
-int flame_L = A0; //define as the anlog port of the left flame sensor as A0
-int flame_R = A1; //define as the anlog port of the right flame sensor as A1
+int flame_L = A1; //define as the anlog port of the left flame sensor as A1
+int flame_R = A2; //define as the anlog port of the right flame sensor as A2
 //wire up the line tracking sensor
-#define L_pin  6  //left
+#define L_pin  11  //left
 #define M_pin  7  //middle
 #define R_pin  8  //right
 //the pin of 130 motor
@@ -17,7 +17,7 @@ int INB = 13;
 #define ML_Ctrl 4  //define the direction control pin of thel left motor
 #define ML_PWM 5   //define the PWM control pin of the left motor
 #define MR_Ctrl 2  //define the direction control pin of thel right motor
-#define MR_PWM 9   //define the PWM control pin of the right motor
+#define MR_PWM 6   //define the PWM control pin of the right motor
 int L_val, M_val, R_val, flame_valL, flame_valR;
 
 void setup()

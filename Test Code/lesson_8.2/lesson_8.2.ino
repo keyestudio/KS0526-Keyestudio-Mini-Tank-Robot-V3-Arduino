@@ -6,7 +6,7 @@
 */
 int trigPin = 12;    // Pin Trig attach to 12
 int echoPin = 13;    // Pin Echo attach to 13
-int LED = 3;
+int LED = 9;
 long duration, cm, inches;
 void setup() {
   //enable the serial port

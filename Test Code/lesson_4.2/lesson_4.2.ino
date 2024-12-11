@@ -5,9 +5,9 @@
   http://www.keyestudio.com
 */
 //LED pin
-#define LED 3
+#define LED 9
 //The wiring of line tracking sensors
-#define L_pin  6  //for the sensor in the left
+#define L_pin  11  //for the sensor in the left
 #define M_pin  7  //for the sensor in the middle
 #define R_pin  8  //for the sensor in the right
 

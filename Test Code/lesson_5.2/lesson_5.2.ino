@@ -4,8 +4,8 @@
   flame sensor
   http://www.keyestudio.com
 */
-int flame = A0; //Define the flame pin as analog pin A0
-int LED = 3;    //Define the LED as digital port 3
+int flame = A1; //Define the flame pin as analog pin A1
+int LED = 9;    //Define the LED as digital port 9
 int val = 0;    //Define digital variables
 void setup() {
   pinMode(flame, INPUT);    //Define the buzzer as an input source

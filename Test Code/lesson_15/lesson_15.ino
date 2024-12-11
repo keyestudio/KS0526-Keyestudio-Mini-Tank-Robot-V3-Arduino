@@ -8,8 +8,8 @@
 int a, a1, a2;
 #define ML_Ctrl 4  //define the direction control pin of the left motor as 4
 #define ML_PWM 5   //define the PWM control pin of the lfet motor as 5
-#define MR_Ctrl 2  //define the direction control pin of the right motor as 9
-#define MR_PWM 9   //define the PWM control pin of the right motor as 9
+#define MR_Ctrl 2  //define the direction control pin of the right motor as 2
+#define MR_PWM 6   //define the PWM control pin of the right motor as 6
 #define Trig 12
 #define Echo 13
 float distance;

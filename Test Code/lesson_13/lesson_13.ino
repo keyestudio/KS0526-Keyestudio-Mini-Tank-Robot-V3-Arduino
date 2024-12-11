@@ -4,12 +4,12 @@
   light follow tank
   http://www.keyestudio.com
 */
-#define light_L_Pin A0   //define the pin of the left photoresistor as A0 
-#define light_R_Pin A1   //define the pin of the right photoresistor as A1
+#define light_L_Pin A1   //define the pin of the left photoresistor as A1
+#define light_R_Pin A2   //define the pin of the right photoresistor as A2
 #define ML_Ctrl 4  //define the control pin of the left motor as 4
 #define ML_PWM 5   //define as the PWM control pin of the left motor 
 #define MR_Ctrl 2  //define the control pin of the right motor as 2
-#define MR_PWM 9   //define the PWM control pin of the right motor as 9
+#define MR_PWM 6   //define the PWM control pin of the right motor as 6
 int left_light;
 int right_light;
 void setup() {

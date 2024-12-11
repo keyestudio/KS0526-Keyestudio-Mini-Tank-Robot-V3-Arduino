@@ -7,7 +7,7 @@
 #define ML_Ctrl 4  //Define the direction control pin of the left motor
 #define ML_PWM 5   //Define the PWM control pin of the left motor
 #define MR_Ctrl 2  //Define the direction control pin of the right motor
-#define MR_PWM 9  //Define the PWM control pin of the right motor
+#define MR_PWM 6  //Define the PWM control pin of the right motor
 
 void setup()
 {

@@ -21,7 +21,7 @@ unsigned char speed_d[] = {0x00, 0x00, 0x00, 0x04, 0x08, 0x10, 0x20, 0x40, 0xff,
 #define ML_Ctrl 4  //define the direction control pin of thel left motor
 #define ML_PWM 5   //define the PWM control pins of the left motor
 #define MR_Ctrl 2  //define the direction control pin of thel right motor
-#define MR_PWM 9   //define the PWM control pin of the right motor
+#define MR_PWM 6   //define the PWM control pin of the right motor
 char ble_val;      //used to save the value from Bluetooth
 byte speeds = 200;;//the initial speed is 200
 

@@ -5,7 +5,7 @@
   http://www.keyestudio.com
 */
 #include <IRremote.h>
-IRrecv irrecv(A2);  //
+IRrecv irrecv(3);  //
 decode_results results;
 long ir_rec;  //used to save the IR value 
 
@@ -32,23 +32,23 @@ unsigned char clear[] = {0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0
 #define ML_Ctrl 4  //define the direction control pin of the left motor as 4
 #define ML_PWM 5   //define the PWM control pin of the left motor as 5
 #define MR_Ctrl 2  //define the direction control pin of the right sensor as 2
-#define MR_PWM 9   //define the PWM control pin of the right motor as 9
+#define MR_PWM 6   //define the PWM control pin of the right motor as 9
 
 char ble_val;      //used to save the Bluetooth value 
 byte speeds_L = 200; //the initial speed of the left motor is 200
 byte speeds_R = 200; // the initial speed of the right motor is 200
 String speeds_l, speeds_r; //receive PWM characters and convert them into PWM value
 
-//#define light_L_Pin A0   //define the pin of the left photoresistor
-//#define light_R_Pin A1   //define the pin of the right photoresistor
+//#define light_L_Pin A1   //define the pin of the left photoresistor
+//#define light_R_Pin A2   //define the pin of the right photoresistor
 int left_light;
 int right_light;
 
-int flame_L = A0; //define the analog port of the left flame sensor to A0
-int flame_R = A1; //define the analog port of the right flame sensor to A1
+int flame_L = A1; //define the analog port of the left flame sensor to A1
+int flame_R = A2; //define the analog port of the right flame sensor to A2
 
 //wire up the line tracking sensor
-#define L_pin  6  //left
+#define L_pin  11  //left
 #define M_pin  7  //middle
 #define R_pin  8  //right
 int L_val, M_val, R_val, flame_valL, flame_valR;

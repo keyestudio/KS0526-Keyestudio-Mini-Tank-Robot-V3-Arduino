@@ -4,7 +4,7 @@
   Blink
   http://www.keyestudio.com
 */
-int LED = 3;  //Define the pin of LED to connect with digital port 3
+int LED = 9;  //Define the pin of LED to connect with digital port 9
 void setup()
 {
   pinMode(LED, OUTPUT); //Initialize the LED pin to output mode

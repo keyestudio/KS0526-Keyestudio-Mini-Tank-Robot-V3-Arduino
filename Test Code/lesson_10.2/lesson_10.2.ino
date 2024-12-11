@@ -4,7 +4,7 @@
   Bluetooth
   http://www.keyestudio.com
 */
-int LED = 3;
+int LED = 9;
 int ble_val; //Integer variable(used to store the value received by Bluetooth)
 
 void setup() {
