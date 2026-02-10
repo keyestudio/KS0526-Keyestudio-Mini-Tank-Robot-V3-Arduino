@@ -58,56 +58,56 @@ BT remote control distance: 30 meters (measured)
 |Numbers|Picture|Name|QTY|
 |:--:|:--:|:--:|:--:|
 |1|![](media/e7109191dcd9c2d014964b9e2409dc0c.png)|Wrench|1|
-|2|![](media/575e374ce74fa69b0b3f43610de08ff6.jpg)|Driving Wheels|2|
-|3|![](media/b73abfc7a734f4862d06712e6310280b.png)|M4*12mm Hexagon Screws|2|
-|4|![](media/10d9de74b35431cbaed2e4056ab13b96.png)|Caterpillar Band|2|
-|5|![](media/bc31aba110b7ad911b46ea77fcb0a7fd.jpg)|Driven Wheel|2|
-|6|![](media/85982dd58bc2a8bdc8b60968e0b4d7a9.png)|M4*35mm Hexagon Screws|2|
-|7|M4*35mm Hexagon Screws|Bottom Parts|1|
-|8|![](media/8ecfc7e4f74bd2001452e33f74eace2e.png)|Keyestudio V4.0 Development Board|1|
-|9|![](media/4ebdedd20a23f95ce5ae9c0a4d124a81.png)|L298P Motor Driver Shield|1|
-|10|![](media/725b40552b5104104dc109c5fe6ad7b3.png)|Keyestudio HM-10 BT-4.0|1|
-|11|![](media/b0906d68835b2659491e53a85567569b.png)|HC-SR04 Ultrasonic Sensor|1|
-|12|![](media/4a2be9e7bf76b26b49e10d5d2f3f9bda.png)|Keyestudio 8*16 LED Panel|1|
-|13|![](media/0b130b1b8eb4e626a9cad08906af2ef5.png)|Yellow LED Module|1|
-|14|![](media/ecf808f114234039582880ab4682c4e6.png)|Flame Sensor|2|
-|15|![](media/ec37bc098e230744bac2fb22b91c503e.png)|130 Motor Module|1|
-|16|![](media/694d563668ffd3ff9b453f45963c16f2.png)|IR Receiver Module|1|
-|17|![](media/9b0193c19a5a7392052adffdfc4e10c2.png)|Photoresistor|2|
-|18|![](media/3960ff94f47aca1521f294d929ee2592.png)|Acrylic Board for8*16 LED Panel|1|
-|19|![](media/a8997d05138f338432d7d2e02de72bfd.png)|Upper Board|1|
-|20|![](media/9665dfd887f3b761c887fe49e47fbdef.png)|Acrylic Board|1|
-|21|![](media/82e72b8a1e3d2c0eebfa0e96e4b66b83.png)|Acrylic Board|1|
-|22|![](media/528c200c8566fe1b65715aa7bb21dad3.png)|Keyestudio JMFP-4 17-Key Remote Control|1|
-|23|![](media/e686213ffb2aa53d9960f9f6d1b600cd.png)|Keyestudio 9G 180 °Servo|1|
-|24|![](media/4f8d5af6dee9016b45d975adb2391d37.png)|USB Cable|1|
-|25|![](media/f353b46e6c2c0597c3268d5aa137fd99.png)|3.0*40MM Screwdriver|1|
-|26|![](media/a3d702d65769c0e0b682a77a152ca5cc.png)|4P M-F PH2.0mm to 2.54 Dupont Wire|1|
-|27|![](media/2b70dfddb2057cbfc54ecb8666c64aeb.png)|4P HX-2.54 Dupont Wire (Black-Red-White-Brown)|1|
-|28|![](media/9be46d555e20cfcf32b981ccd90a376f.png)|5P JST-PH2.0MM Dupont Wire|1|
-|29|![](./media/6a1c8e7c27ca08c62ac0c30a0dbd4578.png)|3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black)|1|
-|30|![](media/f493282b2846fe01fe6861126b368480.png)|3P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)|3|
-|31|![](media/7856a38f34cdeb19966cd0fb99b55f85.png)|4P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)|2|
-|32|![](media/26ed32284d40ce65cc336eb952755e64.png)|4P XH2.54 to PH2.0Dupont Wire（Green-Blue-Red-Black)|1|
-|33|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M1.4*8MM Round-head Screws|6|
-|34|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M1.4 Nuts|6|
-|35|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M2 Nuts|8|
-|36|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M2*8MM Round-head Screws|8|
-|37|![](media/1ae2d251fa671bdbedd375c37ed394aa.png)|M1.2*5MM Round-head Screws|6|
-|38|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M3*6MM Round-head Screws|18|
-|39|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M3*10MM Round-head Screws|3|
-|40|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M3 Nuts|3|
-|41|![](media/0e0fd3c7109c9fdaae633447ace2452f.png)|M3*10MM Dual-pass Copper Pillar|4|
-|42|![](media/0e0fd3c7109c9fdaae633447ace2452f.png)|M3*40MM Dual-pass Copper Pillar|4|
-|43|![](media/f208158da83eb49a2fca4244c3f05347.png)|43093 Blue Technic Axle Pin with Friction Ridges|13|
-|44|![](media/bcef2d126a80b57c944cc15d4df4ee07.png)|4265c Technic Bush|13|
-|45|![](media/95a430f19b519f4c80f1aee9bdea1605.png)|Winding Pipe|1|
-|46|![](media/247e99cde38f40eb256ed698ec47bb1d.png)|3*100MM Ties|5|
-|47|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M2.5 Wrench|1|
-|48|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M3 Wrench|1|
-|49|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M1.5 Wrench|1|
-|50|![](media/8810f202c4cfdc25b290754e21d2fdc8.png)|Cardboard|1|
-|51|![image-20260209092723894](./media/image-20260209092723894.png)|18650(Not included; bring your own.)|2|
+|2|![img](./media/wps2-1770703498139-5.jpg)|Tank Robot Chassis（**Please bring two 18650 batteries with you**）|1|
+|3|![](media/575e374ce74fa69b0b3f43610de08ff6.jpg)|Driving Wheels|2|
+|4|![](media/b73abfc7a734f4862d06712e6310280b.png)|M4*12mm Hexagon Screws|2|
+|5|![](media/10d9de74b35431cbaed2e4056ab13b96.png)|Caterpillar Band|2|
+|6|![](media/bc31aba110b7ad911b46ea77fcb0a7fd.jpg)|Driven Wheel|2|
+|7|![](media/85982dd58bc2a8bdc8b60968e0b4d7a9.png)|M4*35mm Hexagon Screws|2|
+|8|M4*35mm Hexagon Screws|Bottom Parts|1|
+|9|![](media/8ecfc7e4f74bd2001452e33f74eace2e.png)|Keyestudio V4.0 Development Board|1|
+|10|![](media/4ebdedd20a23f95ce5ae9c0a4d124a81.png)|L298P Motor Driver Shield|1|
+|11|![](media/725b40552b5104104dc109c5fe6ad7b3.png)|Keyestudio HM-10 BT-4.0|1|
+|12|![](media/b0906d68835b2659491e53a85567569b.png)|HC-SR04 Ultrasonic Sensor|1|
+|13|![](media/4a2be9e7bf76b26b49e10d5d2f3f9bda.png)|Keyestudio 8*16 LED Panel|1|
+|14|![](media/0b130b1b8eb4e626a9cad08906af2ef5.png)|Yellow LED Module|1|
+|15|![](media/ecf808f114234039582880ab4682c4e6.png)|Flame Sensor|2|
+|16|![](media/ec37bc098e230744bac2fb22b91c503e.png)|130 Motor Module|1|
+|17|![](media/694d563668ffd3ff9b453f45963c16f2.png)|IR Receiver Module|1|
+|18|![](media/9b0193c19a5a7392052adffdfc4e10c2.png)|Photoresistor|2|
+|19|![](media/3960ff94f47aca1521f294d929ee2592.png)|Acrylic Board for8*16 LED Panel|1|
+|20|![](media/a8997d05138f338432d7d2e02de72bfd.png)|Upper Board|1|
+|21|![](media/9665dfd887f3b761c887fe49e47fbdef.png)|Acrylic Board|1|
+|22|![](media/82e72b8a1e3d2c0eebfa0e96e4b66b83.png)|Acrylic Board|1|
+|23|![](media/528c200c8566fe1b65715aa7bb21dad3.png)|Keyestudio JMFP-4 17-Key Remote Control|1|
+|24|![](media/e686213ffb2aa53d9960f9f6d1b600cd.png)|Keyestudio 9G 180 °Servo|1|
+|25|![](media/4f8d5af6dee9016b45d975adb2391d37.png)|USB Cable|1|
+|26|![](media/f353b46e6c2c0597c3268d5aa137fd99.png)|3.0*40MM Screwdriver|1|
+|27|![](media/a3d702d65769c0e0b682a77a152ca5cc.png)|4P M-F PH2.0mm to 2.54 Dupont Wire|1|
+|28|![](media/2b70dfddb2057cbfc54ecb8666c64aeb.png)|4P HX-2.54 Dupont Wire (Black-Red-White-Brown)|1|
+|29|![](media/9be46d555e20cfcf32b981ccd90a376f.png)|5P JST-PH2.0MM Dupont Wire|1|
+|30|![](./media/6a1c8e7c27ca08c62ac0c30a0dbd4578.png)|3P-3P XH2.54 to 2.54 Dupont Wire（Yellow-Red-Black)|1|
+|31|![](media/f493282b2846fe01fe6861126b368480.png)|3P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)|3|
+|32|![](media/7856a38f34cdeb19966cd0fb99b55f85.png)|4P-3P XH2.54 to PH2.0 Dupont Wire（Yellow-Red-Black)|2|
+|33|![](media/26ed32284d40ce65cc336eb952755e64.png)|4P XH2.54 to PH2.0Dupont Wire（Green-Blue-Red-Black)|1|
+|34|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M1.4*8MM Round-head Screws|6|
+|35|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M1.4 Nuts|6|
+|36|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M2 Nuts|8|
+|37|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M2*8MM Round-head Screws|8|
+|38|![](media/1ae2d251fa671bdbedd375c37ed394aa.png)|M1.2*5MM Round-head Screws|6|
+|39|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M3*6MM Round-head Screws|18|
+|40|![](media/f304cb590f040f13b4bd93bfc636ddba.png)|M3*10MM Round-head Screws|3|
+|41|![](media/fb3d2a6b5e5de551ae702b94a468ab49.png)|M3 Nuts|3|
+|42|![](media/0e0fd3c7109c9fdaae633447ace2452f.png)|M3*10MM Dual-pass Copper Pillar|4|
+|43|![](media/0e0fd3c7109c9fdaae633447ace2452f.png)|M3*40MM Dual-pass Copper Pillar|4|
+|44|![](media/f208158da83eb49a2fca4244c3f05347.png)|43093 Blue Technic Axle Pin with Friction Ridges|13|
+|45|![](media/bcef2d126a80b57c944cc15d4df4ee07.png)|4265c Technic Bush|13|
+|46|![](media/95a430f19b519f4c80f1aee9bdea1605.png)|Winding Pipe|1|
+|47|![](media/247e99cde38f40eb256ed698ec47bb1d.png)|3*100MM Ties|5|
+|48|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M2.5 Wrench|1|
+|49|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M3 Wrench|1|
+|50|![](media/ad46a09c801f0ce10448cf7f7c3ef279.png)|L Type M1.5 Wrench|1|
+|51|![](media/8810f202c4cfdc25b290754e21d2fdc8.png)|Cardboard|1|
 
 
 
